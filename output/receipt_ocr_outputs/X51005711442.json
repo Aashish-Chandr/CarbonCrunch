@@ -1,0 +1,23 @@
+{
+  "filename": "X51005711442.jpg",
+  "error": null,
+  "store_name": {
+    "value": "RESTORAN WAN  SHENG",
+    "confidence": 0.917
+  },
+  "date": {
+    "value": "16-03-2018",
+    "confidence": 0.798
+  },
+  "items": [],
+  "total_amount": {
+    "value": "787520",
+    "confidence": 0.553,
+    "flagged": true
+  },
+  "ocr_confidence": 0.793,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

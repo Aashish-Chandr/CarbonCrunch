@@ -1,0 +1,23 @@
+{
+  "filename": "X51005605287.jpg",
+  "error": null,
+  "store_name": {
+    "value": "AEoN Ce ,",
+    "confidence": 0.829
+  },
+  "date": {
+    "value": "14/03/2018",
+    "confidence": 0.732
+  },
+  "items": [],
+  "total_amount": {
+    "value": "394688",
+    "confidence": 0.487,
+    "flagged": true
+  },
+  "ocr_confidence": 0.573,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.49)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

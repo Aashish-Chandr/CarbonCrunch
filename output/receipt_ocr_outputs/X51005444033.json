@@ -1,0 +1,23 @@
+{
+  "filename": "X51005444033.jpg",
+  "error": null,
+  "store_name": {
+    "value": "BIGC",
+    "confidence": 0.918
+  },
+  "date": {
+    "value": "12/03/18",
+    "confidence": 0.798
+  },
+  "items": [],
+  "total_amount": {
+    "value": "941376",
+    "confidence": 0.553,
+    "flagged": true
+  },
+  "ocr_confidence": 0.795,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

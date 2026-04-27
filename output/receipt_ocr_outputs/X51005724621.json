@@ -1,0 +1,25 @@
+{
+  "filename": "X51005724621.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Nxr",
+    "confidence": 0.914
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "876860",
+    "confidence": 0.551,
+    "flagged": true
+  },
+  "ocr_confidence": 0.785,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

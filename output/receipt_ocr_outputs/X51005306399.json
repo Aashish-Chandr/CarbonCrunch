@@ -1,0 +1,30 @@
+{
+  "filename": "X51005306399.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Shell",
+    "confidence": 0.878
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [
+    {
+      "name": "Site",
+      "price": "1066",
+      "confidence": 0.795
+    }
+  ],
+  "total_amount": {
+    "value": "600000",
+    "confidence": 0.55,
+    "flagged": true
+  },
+  "ocr_confidence": 0.784,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.55)"
+  ]
+}

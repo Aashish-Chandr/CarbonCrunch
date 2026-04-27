@@ -1,0 +1,25 @@
+{
+  "filename": "4.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Walmart",
+    "confidence": 0.757
+  },
+  "date": {
+    "value": "12/08/16",
+    "confidence": 0.678,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "995026",
+    "confidence": 0.433,
+    "flagged": true
+  },
+  "ocr_confidence": 0.392,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.68)",
+    "LOW_CONFIDENCE:total_amount(0.43)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

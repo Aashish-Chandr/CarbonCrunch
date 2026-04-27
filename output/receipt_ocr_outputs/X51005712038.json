@@ -1,0 +1,23 @@
+{
+  "filename": "X51005712038.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SwC",
+    "confidence": 0.819
+  },
+  "date": {
+    "value": "28/03/2018",
+    "confidence": 0.724
+  },
+  "items": [],
+  "total_amount": {
+    "value": "882567",
+    "confidence": 0.479,
+    "flagged": true
+  },
+  "ocr_confidence": 0.547,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

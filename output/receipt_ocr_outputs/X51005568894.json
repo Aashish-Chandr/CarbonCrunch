@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568894.jpg",
+  "error": null,
+  "store_name": {
+    "value": "WWW,vivopac Com",
+    "confidence": 0.64,
+    "flagged": true
+  },
+  "date": {
+    "value": "17/01/2017",
+    "confidence": 0.77
+  },
+  "items": [],
+  "total_amount": {
+    "value": "913105",
+    "confidence": 0.525,
+    "flagged": true
+  },
+  "ocr_confidence": 0.701,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.64)",
+    "LOW_CONFIDENCE:total_amount(0.53)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

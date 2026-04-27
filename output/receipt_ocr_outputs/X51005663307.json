@@ -1,0 +1,23 @@
+{
+  "filename": "X51005663307.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TAMAN SRI RAMPAI ,",
+    "confidence": 0.829
+  },
+  "date": {
+    "value": "09/02/2018",
+    "confidence": 0.808
+  },
+  "items": [],
+  "total_amount": {
+    "value": "721536",
+    "confidence": 0.563,
+    "flagged": true
+  },
+  "ocr_confidence": 0.826,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

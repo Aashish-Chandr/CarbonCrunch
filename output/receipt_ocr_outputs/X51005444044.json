@@ -1,0 +1,23 @@
+{
+  "filename": "X51005444044.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TARAN  BERKELEY",
+    "confidence": 0.74
+  },
+  "date": {
+    "value": "10-03-18",
+    "confidence": 0.741
+  },
+  "items": [],
+  "total_amount": {
+    "value": "747712",
+    "confidence": 0.496,
+    "flagged": true
+  },
+  "ocr_confidence": 0.604,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.50)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

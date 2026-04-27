@@ -1,0 +1,25 @@
+{
+  "filename": "X51005763999.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Invqice Nq",
+    "confidence": 0.632,
+    "flagged": true
+  },
+  "date": {
+    "value": "06 Jan 2018",
+    "confidence": 0.719
+  },
+  "items": [],
+  "total_amount": {
+    "value": "645696",
+    "confidence": 0.474,
+    "flagged": true
+  },
+  "ocr_confidence": 0.53,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.63)",
+    "LOW_CONFIDENCE:total_amount(0.47)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

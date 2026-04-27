@@ -1,0 +1,25 @@
+{
+  "filename": "X51005433533.jpg",
+  "error": null,
+  "store_name": {
+    "value": "PERNIAGAAN ZHENG:HUI",
+    "confidence": 0.737
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955505",
+    "confidence": 0.418,
+    "flagged": true
+  },
+  "ocr_confidence": 0.343,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.42)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

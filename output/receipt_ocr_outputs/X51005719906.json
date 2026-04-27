@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719906.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Zen and coffee 28 S/8",
+    "confidence": 0.874
+  },
+  "date": {
+    "value": "25 Mar 2018",
+    "confidence": 0.902
+  },
+  "items": [],
+  "total_amount": {
+    "value": "626193",
+    "confidence": 0.552,
+    "flagged": true
+  },
+  "ocr_confidence": 0.791,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

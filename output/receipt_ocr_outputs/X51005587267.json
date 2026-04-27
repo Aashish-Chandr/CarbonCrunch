@@ -1,0 +1,27 @@
+{
+  "filename": "X51005587267.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Ibon",
+    "confidence": 0.673,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "728515",
+    "confidence": 0.37,
+    "flagged": true
+  },
+  "ocr_confidence": 0.182,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.67)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.37)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

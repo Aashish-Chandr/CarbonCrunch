@@ -1,0 +1,23 @@
+{
+  "filename": "X51005684949.jpg",
+  "error": null,
+  "store_name": {
+    "value": "WESTERN",
+    "confidence": 0.929
+  },
+  "date": {
+    "value": "26-02-2018",
+    "confidence": 0.806
+  },
+  "items": [],
+  "total_amount": {
+    "value": "318020",
+    "confidence": 0.561,
+    "flagged": true
+  },
+  "ocr_confidence": 0.821,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

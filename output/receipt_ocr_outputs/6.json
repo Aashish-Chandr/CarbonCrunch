@@ -1,0 +1,23 @@
+{
+  "filename": "6.JPG",
+  "error": null,
+  "store_name": {
+    "value": "MOMI",
+    "confidence": 0.855
+  },
+  "date": {
+    "value": "26/01/2015",
+    "confidence": 0.752
+  },
+  "items": [],
+  "total_amount": {
+    "value": "88924",
+    "confidence": 0.507,
+    "flagged": true
+  },
+  "ocr_confidence": 0.639,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

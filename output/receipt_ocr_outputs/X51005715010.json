@@ -1,0 +1,25 @@
+{
+  "filename": "X51005715010.jpg",
+  "error": null,
+  "store_name": {
+    "value": "wotsons",
+    "confidence": 0.743
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "992601",
+    "confidence": 0.458,
+    "flagged": true
+  },
+  "ocr_confidence": 0.477,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.46)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005757323.jpg",
+  "error": null,
+  "store_name": {
+    "value": "(Rs @SEaVk (C)SDMBHD",
+    "confidence": 0.684,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "63",
+    "confidence": 0.764
+  },
+  "ocr_confidence": 0.331,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.68)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

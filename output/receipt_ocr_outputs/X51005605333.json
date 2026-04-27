@@ -1,0 +1,23 @@
+{
+  "filename": "X51005605333.jpg",
+  "error": null,
+  "store_name": {
+    "value": "POPULAR BppK",
+    "confidence": 0.787
+  },
+  "date": {
+    "value": "07/01/18",
+    "confidence": 0.7
+  },
+  "items": [],
+  "total_amount": {
+    "value": "992000",
+    "confidence": 0.455,
+    "flagged": true
+  },
+  "ocr_confidence": 0.467,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.46)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

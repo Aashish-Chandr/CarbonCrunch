@@ -1,0 +1,23 @@
+{
+  "filename": "X51005365187.jpg",
+  "error": null,
+  "store_name": {
+    "value": "F&p PHARMACY",
+    "confidence": 0.802
+  },
+  "date": {
+    "value": "02/03/2018",
+    "confidence": 0.852
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955789",
+    "confidence": 0.502,
+    "flagged": true
+  },
+  "ocr_confidence": 0.624,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.50)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

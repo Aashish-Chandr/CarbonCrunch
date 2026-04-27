@@ -1,0 +1,25 @@
+{
+  "filename": "X51005719895.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Io EEN LaNe PHARHACY  SDN  BHD",
+    "confidence": 0.686,
+    "flagged": true
+  },
+  "date": {
+    "value": "1/8/2048",
+    "confidence": 0.624,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "31",
+    "confidence": 0.729
+  },
+  "ocr_confidence": 0.215,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.69)",
+    "LOW_CONFIDENCE:date(0.62)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

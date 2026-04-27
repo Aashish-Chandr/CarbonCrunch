@@ -1,0 +1,25 @@
+{
+  "filename": "X51005719886.jpg",
+  "error": null,
+  "store_name": {
+    "value": "WuorA~",
+    "confidence": 0.82
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "618556",
+    "confidence": 0.48,
+    "flagged": true
+  },
+  "ocr_confidence": 0.549,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

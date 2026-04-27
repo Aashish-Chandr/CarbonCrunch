@@ -1,0 +1,23 @@
+{
+  "filename": "X51005444041.jpg",
+  "error": null,
+  "store_name": {
+    "value": "BIC",
+    "confidence": 0.923
+  },
+  "date": {
+    "value": "08/03/18",
+    "confidence": 0.802
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955730",
+    "confidence": 0.557,
+    "flagged": true
+  },
+  "ocr_confidence": 0.807,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

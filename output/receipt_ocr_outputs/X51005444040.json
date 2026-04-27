@@ -1,0 +1,23 @@
+{
+  "filename": "X51005444040.jpg",
+  "error": null,
+  "store_name": {
+    "value": "BENS INDEPENDENT GROCER SDN; BHD",
+    "confidence": 0.925
+  },
+  "date": {
+    "value": "09/03/18",
+    "confidence": 0.804
+  },
+  "items": [],
+  "total_amount": {
+    "value": "941376",
+    "confidence": 0.559,
+    "flagged": true
+  },
+  "ocr_confidence": 0.812,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

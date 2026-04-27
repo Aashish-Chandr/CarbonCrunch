@@ -1,0 +1,23 @@
+{
+  "filename": "X51005746206.jpg",
+  "error": null,
+  "store_name": {
+    "value": "PANG JAYA ENTEAPAISE",
+    "confidence": 0.836
+  },
+  "date": {
+    "value": "21-03-2010",
+    "confidence": 0.737
+  },
+  "items": [],
+  "total_amount": {
+    "value": "539405",
+    "confidence": 0.492,
+    "flagged": true
+  },
+  "ocr_confidence": 0.589,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.49)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

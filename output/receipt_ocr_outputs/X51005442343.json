@@ -1,0 +1,25 @@
+{
+  "filename": "X51005442343.jpg",
+  "error": null,
+  "store_name": {
+    "value": "YONG TAT:",
+    "confidence": 0.726
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "500035",
+    "confidence": 0.409,
+    "flagged": true
+  },
+  "ocr_confidence": 0.314,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.41)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

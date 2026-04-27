@@ -1,0 +1,23 @@
+{
+  "filename": "X51005444037.jpg",
+  "error": null,
+  "store_name": {
+    "value": "pdos",
+    "confidence": 0.86
+  },
+  "date": {
+    "value": "28 Mar 18",
+    "confidence": 0.755
+  },
+  "items": [],
+  "total_amount": {
+    "value": "492992",
+    "confidence": 0.51,
+    "flagged": true
+  },
+  "ocr_confidence": 0.65,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

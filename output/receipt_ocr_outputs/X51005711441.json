@@ -1,0 +1,23 @@
+{
+  "filename": "X51005711441.jpg",
+  "error": null,
+  "store_name": {
+    "value": "RESTORAN HAN SHENG",
+    "confidence": 0.899
+  },
+  "date": {
+    "value": "21-03-2018",
+    "confidence": 0.784
+  },
+  "items": [],
+  "total_amount": {
+    "value": "133678",
+    "confidence": 0.539,
+    "flagged": true
+  },
+  "ocr_confidence": 0.747,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.54)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

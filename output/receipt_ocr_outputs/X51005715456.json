@@ -1,0 +1,25 @@
+{
+  "filename": "X51005715456.jpg",
+  "error": null,
+  "store_name": {
+    "value": "KHE ELECTRICAL TRADING",
+    "confidence": 0.851
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "221031",
+    "confidence": 0.503,
+    "flagged": true
+  },
+  "ocr_confidence": 0.627,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.50)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

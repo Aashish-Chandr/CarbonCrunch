@@ -1,0 +1,35 @@
+{
+  "filename": "X51005719898.jpg",
+  "error": null,
+  "store_name": {
+    "value": "MR ;",
+    "confidence": 0.764
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [
+    {
+      "name": "SALAN' KPB",
+      "price": "6",
+      "confidence": 0.683
+    },
+    {
+      "name": "4-eTaX INVOICE;,",
+      "price": "4",
+      "confidence": 0.683
+    }
+  ],
+  "total_amount": {
+    "value": "908452",
+    "confidence": 0.438,
+    "flagged": true
+  },
+  "ocr_confidence": 0.41,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.44)"
+  ]
+}

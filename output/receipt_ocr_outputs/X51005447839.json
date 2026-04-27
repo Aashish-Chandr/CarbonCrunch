@@ -1,0 +1,23 @@
+{
+  "filename": "X51005447839.jpg",
+  "error": null,
+  "store_name": {
+    "value": "RESTAURANT  J IAWE |",
+    "confidence": 0.909
+  },
+  "date": {
+    "value": "9/3/2018",
+    "confidence": 0.792
+  },
+  "items": [],
+  "total_amount": {
+    "value": "57000",
+    "confidence": 0.547,
+    "flagged": true
+  },
+  "ocr_confidence": 0.774,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

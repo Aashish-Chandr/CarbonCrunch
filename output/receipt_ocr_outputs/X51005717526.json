@@ -1,0 +1,21 @@
+{
+  "filename": "X51005717526.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Qerbang Alaf Restaurants Sun Bhd",
+    "confidence": 0.843
+  },
+  "date": {
+    "value": "02/03/2018",
+    "confidence": 0.742
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6",
+    "confidence": 0.847
+  },
+  "ocr_confidence": 0.607,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

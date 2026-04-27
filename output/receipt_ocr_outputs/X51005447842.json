@@ -1,0 +1,21 @@
+{
+  "filename": "X51005447842.jpg",
+  "error": null,
+  "store_name": {
+    "value": "PASARAYABORONG PiNTAR",
+    "confidence": 0.896
+  },
+  "date": {
+    "value": "14/03/2018",
+    "confidence": 0.782
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0",
+    "confidence": 0.887
+  },
+  "ocr_confidence": 0.741,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

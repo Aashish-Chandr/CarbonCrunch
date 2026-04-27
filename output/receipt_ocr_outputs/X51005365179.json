@@ -1,0 +1,23 @@
+{
+  "filename": "X51005365179.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Khoo KARDWARE SDN BHD",
+    "confidence": 0.754
+  },
+  "date": {
+    "value": "01-03-18",
+    "confidence": 0.747
+  },
+  "items": [],
+  "total_amount": {
+    "value": "894102",
+    "confidence": 0.502,
+    "flagged": true
+  },
+  "ocr_confidence": 0.625,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.50)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

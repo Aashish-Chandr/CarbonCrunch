@@ -1,0 +1,27 @@
+{
+  "filename": "X51005442376.jpg",
+  "error": null,
+  "store_name": {
+    "value": "UNRAKKA'",
+    "confidence": 0.684,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "648804",
+    "confidence": 0.378,
+    "flagged": true
+  },
+  "ocr_confidence": 0.209,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.68)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.38)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

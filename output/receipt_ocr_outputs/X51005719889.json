@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719889.jpg",
+  "error": null,
+  "store_name": {
+    "value": "HENG",
+    "confidence": 0.858
+  },
+  "date": {
+    "value": "04/01/2018",
+    "confidence": 0.858
+  },
+  "items": [],
+  "total_amount": {
+    "value": "890176",
+    "confidence": 0.508,
+    "flagged": true
+  },
+  "ocr_confidence": 0.644,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "filename": "X51005230621.jpg",
+  "error": null,
+  "store_name": {
+    "value": "LANra;? Son Ghd",
+    "confidence": 0.527,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "807545",
+    "confidence": 0.368,
+    "flagged": true
+  },
+  "ocr_confidence": 0.178,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.53)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.37)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

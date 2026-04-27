@@ -1,0 +1,23 @@
+{
+  "filename": "X51005745296.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SUSHI  MENTAI",
+    "confidence": 0.913
+  },
+  "date": {
+    "value": "09-04-2018",
+    "confidence": 0.795
+  },
+  "items": [],
+  "total_amount": {
+    "value": "673381",
+    "confidence": 0.55,
+    "flagged": true
+  },
+  "ocr_confidence": 0.782,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

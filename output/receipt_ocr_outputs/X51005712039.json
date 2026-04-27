@@ -1,0 +1,25 @@
+{
+  "filename": "X51005712039.jpg",
+  "error": null,
+  "store_name": {
+    "value": "L TWO:FLORIST & HANDICRAFT",
+    "confidence": 0.897
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "321644",
+    "confidence": 0.538,
+    "flagged": true
+  },
+  "ocr_confidence": 0.743,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.54)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

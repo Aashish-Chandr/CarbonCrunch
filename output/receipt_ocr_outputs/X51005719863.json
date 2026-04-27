@@ -1,0 +1,25 @@
+{
+  "filename": "X51005719863.jpg",
+  "error": null,
+  "store_name": {
+    "value": "EE hedNG  resTaWrANT",
+    "confidence": 0.729
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "252590",
+    "confidence": 0.412,
+    "flagged": true
+  },
+  "ocr_confidence": 0.322,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.41)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

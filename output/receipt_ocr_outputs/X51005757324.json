@@ -1,0 +1,32 @@
+{
+  "filename": "X51005757324.jpg",
+  "error": null,
+  "store_name": {
+    "value": "iHRE",
+    "confidence": 0.669,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [
+    {
+      "name": "(O1",
+      "price": "185",
+      "confidence": 0.648
+    }
+  ],
+  "total_amount": {
+    "value": "955549",
+    "confidence": 0.403,
+    "flagged": true
+  },
+  "ocr_confidence": 0.292,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.67)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.40)"
+  ]
+}

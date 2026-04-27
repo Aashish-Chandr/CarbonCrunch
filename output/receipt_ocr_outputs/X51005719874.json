@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719874.jpg",
+  "error": null,
+  "store_name": {
+    "value": "IADEJE PRESTIGE SDN BHD",
+    "confidence": 0.811
+  },
+  "date": {
+    "value": "2018/02/22",
+    "confidence": 0.823
+  },
+  "items": [],
+  "total_amount": {
+    "value": "431744",
+    "confidence": 0.473,
+    "flagged": true
+  },
+  "ocr_confidence": 0.528,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.47)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

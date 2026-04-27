@@ -1,0 +1,23 @@
+{
+  "filename": "X51005711456.jpg",
+  "error": null,
+  "store_name": {
+    "value": "#alliiX _",
+    "confidence": 0.881
+  },
+  "date": {
+    "value": "31-03-2018",
+    "confidence": 0.771
+  },
+  "items": [],
+  "total_amount": {
+    "value": "613777",
+    "confidence": 0.526,
+    "flagged": true
+  },
+  "ocr_confidence": 0.702,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.53)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

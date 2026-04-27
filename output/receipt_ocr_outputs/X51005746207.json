@@ -1,0 +1,23 @@
+{
+  "filename": "X51005746207.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SDN 'BHD",
+    "confidence": 0.85
+  },
+  "date": {
+    "value": "21-03-2018",
+    "confidence": 0.747
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955619",
+    "confidence": 0.502,
+    "flagged": true
+  },
+  "ocr_confidence": 0.624,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.50)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

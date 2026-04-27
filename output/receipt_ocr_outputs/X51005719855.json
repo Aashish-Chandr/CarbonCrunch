@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719855.jpg",
+  "error": null,
+  "store_name": {
+    "value": "ROCKU",
+    "confidence": 0.889
+  },
+  "date": {
+    "value": "79/02/2018",
+    "confidence": 0.777
+  },
+  "items": [],
+  "total_amount": {
+    "value": "271488",
+    "confidence": 0.532,
+    "flagged": true
+  },
+  "ocr_confidence": 0.722,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.53)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

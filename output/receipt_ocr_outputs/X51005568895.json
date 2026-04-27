@@ -1,0 +1,23 @@
+{
+  "filename": "X51005568895.jpg",
+  "error": null,
+  "store_name": {
+    "value": "wvivopac; com:",
+    "confidence": 0.723
+  },
+  "date": {
+    "value": "13/09/2017",
+    "confidence": 0.796
+  },
+  "items": [],
+  "total_amount": {
+    "value": "913343",
+    "confidence": 0.551,
+    "flagged": true
+  },
+  "ocr_confidence": 0.787,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

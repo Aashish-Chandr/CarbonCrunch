@@ -1,0 +1,23 @@
+{
+  "filename": "X51005605286.jpg",
+  "error": null,
+  "store_name": {
+    "value": "JLN JEJAKA,   TAMAN  MALURI",
+    "confidence": 0.857
+  },
+  "date": {
+    "value": "09/02/2018",
+    "confidence": 0.757
+  },
+  "items": [],
+  "total_amount": {
+    "value": "394688",
+    "confidence": 0.512,
+    "flagged": true
+  },
+  "ocr_confidence": 0.656,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

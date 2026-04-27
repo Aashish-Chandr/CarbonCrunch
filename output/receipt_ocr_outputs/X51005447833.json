@@ -1,0 +1,23 @@
+{
+  "filename": "X51005447833.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SUn Wong Kut SDN BHD",
+    "confidence": 0.878
+  },
+  "date": {
+    "value": "21/02/18",
+    "confidence": 0.768
+  },
+  "items": [],
+  "total_amount": {
+    "value": "922134",
+    "confidence": 0.523,
+    "flagged": true
+  },
+  "ocr_confidence": 0.695,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

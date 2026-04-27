@@ -1,0 +1,21 @@
+{
+  "filename": "20.png",
+  "error": null,
+  "store_name": {
+    "value": "DOLLAR TREE",
+    "confidence": 0.889
+  },
+  "date": {
+    "value": "9/17/22",
+    "confidence": 0.777
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1",
+    "confidence": 0.882
+  },
+  "ocr_confidence": 0.723,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

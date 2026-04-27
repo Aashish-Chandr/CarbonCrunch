@@ -1,0 +1,23 @@
+{
+  "filename": "X51005745214.jpg",
+  "error": null,
+  "store_name": {
+    "value": "LOT PT 2811, JALAN ANCSA,",
+    "confidence": 0.82
+  },
+  "date": {
+    "value": "07-02-18",
+    "confidence": 0.73
+  },
+  "items": [],
+  "total_amount": {
+    "value": "747712",
+    "confidence": 0.485,
+    "flagged": true
+  },
+  "ocr_confidence": 0.565,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

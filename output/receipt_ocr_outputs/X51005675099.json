@@ -1,0 +1,23 @@
+{
+  "filename": "X51005675099.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Super Terminal San Bhd",
+    "confidence": 0.92
+  },
+  "date": {
+    "value": "20/01/2018",
+    "confidence": 0.8
+  },
+  "items": [],
+  "total_amount": {
+    "value": "625122",
+    "confidence": 0.555,
+    "flagged": true
+  },
+  "ocr_confidence": 0.8,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719905.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SAINT HEART PASTRY",
+    "confidence": 0.92
+  },
+  "date": {
+    "value": "25/03/2018",
+    "confidence": 0.8
+  },
+  "items": [],
+  "total_amount": {
+    "value": "613728",
+    "confidence": 0.555,
+    "flagged": true
+  },
+  "ocr_confidence": 0.799,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

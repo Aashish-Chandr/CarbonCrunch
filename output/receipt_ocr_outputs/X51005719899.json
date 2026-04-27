@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719899.jpg",
+  "error": null,
+  "store_name": {
+    "value": "NYONYA",
+    "confidence": 0.874
+  },
+  "date": {
+    "value": "18-03-2018",
+    "confidence": 0.765
+  },
+  "items": [],
+  "total_amount": {
+    "value": "772822",
+    "confidence": 0.52,
+    "flagged": true
+  },
+  "ocr_confidence": 0.685,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

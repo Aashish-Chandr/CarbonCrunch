@@ -1,0 +1,25 @@
+{
+  "filename": "X51005764031.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SuPER SEVEN CASH & CARRV SbN BHD",
+    "confidence": 0.824
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955002",
+    "confidence": 0.483,
+    "flagged": true
+  },
+  "ocr_confidence": 0.56,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005433543.jpg",
+  "error": null,
+  "store_name": {
+    "value": "#ozasz",
+    "confidence": 0.722
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3820",
+    "confidence": 0.756
+  },
+  "ocr_confidence": 0.304,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

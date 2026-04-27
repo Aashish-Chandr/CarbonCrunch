@@ -1,0 +1,25 @@
+{
+  "filename": "X51005433553.jpg",
+  "error": null,
+  "store_name": {
+    "value": "K teon; Tebrau Cify;",
+    "confidence": 0.715
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "972872",
+    "confidence": 0.401,
+    "flagged": true
+  },
+  "ocr_confidence": 0.287,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.40)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

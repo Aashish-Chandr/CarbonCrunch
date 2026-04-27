@@ -1,0 +1,23 @@
+{
+  "filename": "X51005677331.jpg",
+  "error": null,
+  "store_name": {
+    "value": "L*n%;",
+    "confidence": 0.926
+  },
+  "date": {
+    "value": "03/02/2018",
+    "confidence": 0.804
+  },
+  "items": [],
+  "total_amount": {
+    "value": "673920",
+    "confidence": 0.559,
+    "flagged": true
+  },
+  "ocr_confidence": 0.814,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

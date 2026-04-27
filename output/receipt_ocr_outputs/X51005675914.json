@@ -1,0 +1,27 @@
+{
+  "filename": "X51005675914.jpg",
+  "error": null,
+  "store_name": {
+    "value": "@yondeR@uerBIARDWARE",
+    "confidence": 0.67,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "974272",
+    "confidence": 0.404,
+    "flagged": true
+  },
+  "ocr_confidence": 0.296,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.67)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.40)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "filename": "X51005433556.jpg",
+  "error": null,
+  "store_name": {
+    "value": "YHM Aenn Tebrai City",
+    "confidence": 0.694,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "582732",
+    "confidence": 0.421,
+    "flagged": true
+  },
+  "ocr_confidence": 0.354,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.69)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.42)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

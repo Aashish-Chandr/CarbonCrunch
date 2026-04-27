@@ -1,0 +1,23 @@
+{
+  "filename": "X51005763940.jpg",
+  "error": null,
+  "store_name": {
+    "value": "HatNeyNemal",
+    "confidence": 0.872
+  },
+  "date": {
+    "value": "11.02.18",
+    "confidence": 0.764
+  },
+  "items": [],
+  "total_amount": {
+    "value": "880002",
+    "confidence": 0.519,
+    "flagged": true
+  },
+  "ocr_confidence": 0.68,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

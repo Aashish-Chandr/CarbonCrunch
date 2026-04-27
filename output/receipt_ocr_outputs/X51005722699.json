@@ -1,0 +1,23 @@
+{
+  "filename": "X51005722699.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Vil",
+    "confidence": 0.879
+  },
+  "date": {
+    "value": "11/02/18",
+    "confidence": 0.769
+  },
+  "items": [],
+  "total_amount": {
+    "value": "992000",
+    "confidence": 0.524,
+    "flagged": true
+  },
+  "ocr_confidence": 0.697,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

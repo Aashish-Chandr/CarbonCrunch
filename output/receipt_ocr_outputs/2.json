@@ -1,0 +1,32 @@
+{
+  "filename": "2.jpg",
+  "error": null,
+  "store_name": {
+    "value": "'Hp) etT",
+    "confidence": 0.696,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [
+    {
+      "name": "DEXAS 15x20",
+      "price": "008429",
+      "confidence": 0.632
+    }
+  ],
+  "total_amount": {
+    "value": "926734",
+    "confidence": 0.387,
+    "flagged": true
+  },
+  "ocr_confidence": 0.239,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.70)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.39)"
+  ]
+}

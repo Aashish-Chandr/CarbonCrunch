@@ -1,0 +1,30 @@
+{
+  "filename": "X51005447832.jpg",
+  "error": null,
+  "store_name": {
+    "value": "PETRODELI ENTERPRISE",
+    "confidence": 0.87
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [
+    {
+      "name": "10886",
+      "price": "09",
+      "confidence": 0.762
+    }
+  ],
+  "total_amount": {
+    "value": "600001",
+    "confidence": 0.517,
+    "flagged": true
+  },
+  "ocr_confidence": 0.675,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.52)"
+  ]
+}

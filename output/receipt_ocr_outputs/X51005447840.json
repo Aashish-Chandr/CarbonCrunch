@@ -1,0 +1,21 @@
+{
+  "filename": "X51005447840.jpg",
+  "error": null,
+  "store_name": {
+    "value": "PASARAYA BORONG PINTAR",
+    "confidence": 0.913
+  },
+  "date": {
+    "value": "14/03/2018",
+    "confidence": 0.795
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0",
+    "confidence": 0.9
+  },
+  "ocr_confidence": 0.782,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

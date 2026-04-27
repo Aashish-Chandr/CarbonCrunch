@@ -1,0 +1,27 @@
+{
+  "filename": "X51005757273.jpg",
+  "error": null,
+  "store_name": {
+    "value": "K(CO",
+    "confidence": 0.697,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "880002",
+    "confidence": 0.392,
+    "flagged": true
+  },
+  "ocr_confidence": 0.257,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.70)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.39)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005447844.jpg",
+  "error": null,
+  "store_name": {
+    "value": "RESTAURANT",
+    "confidence": 0.894
+  },
+  "date": {
+    "value": "23/2/2018",
+    "confidence": 0.78
+  },
+  "items": [],
+  "total_amount": {
+    "value": "57000",
+    "confidence": 0.535,
+    "flagged": true
+  },
+  "ocr_confidence": 0.735,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.54)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

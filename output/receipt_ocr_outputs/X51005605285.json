@@ -1,0 +1,25 @@
+{
+  "filename": "X51005605285.jpg",
+  "error": null,
+  "store_name": {
+    "value": "AEON C0 , (M) BHd __",
+    "confidence": 0.864
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "497295",
+    "confidence": 0.524,
+    "flagged": true
+  },
+  "ocr_confidence": 0.696,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

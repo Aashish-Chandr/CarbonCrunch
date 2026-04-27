@@ -1,0 +1,27 @@
+{
+  "filename": "X51005757235.jpg",
+  "error": null,
+  "store_name": {
+    "value": "JW) jeJ ke5 ULANIHuRD",
+    "confidence": 0.533,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "627000",
+    "confidence": 0.383,
+    "flagged": true
+  },
+  "ocr_confidence": 0.227,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.53)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.38)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

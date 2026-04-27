@@ -1,0 +1,23 @@
+{
+  "filename": "X51005745298.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Lot F.T. 2811, JALAN ANGSA;",
+    "confidence": 0.702
+  },
+  "date": {
+    "value": "31-03-18",
+    "confidence": 0.706
+  },
+  "items": [],
+  "total_amount": {
+    "value": "570342",
+    "confidence": 0.461,
+    "flagged": true
+  },
+  "ocr_confidence": 0.486,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.46)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568900.jpg",
+  "error": null,
+  "store_name": {
+    "value": "AEDQVnAN",
+    "confidence": 0.719
+  },
+  "date": {
+    "value": "28-12-17",
+    "confidence": 0.685,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "886528",
+    "confidence": 0.44,
+    "flagged": true
+  },
+  "ocr_confidence": 0.416,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.69)",
+    "LOW_CONFIDENCE:total_amount(0.44)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

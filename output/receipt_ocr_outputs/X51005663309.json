@@ -1,0 +1,23 @@
+{
+  "filename": "X51005663309.jpg",
+  "error": null,
+  "store_name": {
+    "value": "HARDWARE",
+    "confidence": 0.784
+  },
+  "date": {
+    "value": "01/02/2018",
+    "confidence": 0.808
+  },
+  "items": [],
+  "total_amount": {
+    "value": "800044",
+    "confidence": 0.458,
+    "flagged": true
+  },
+  "ocr_confidence": 0.476,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.46)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

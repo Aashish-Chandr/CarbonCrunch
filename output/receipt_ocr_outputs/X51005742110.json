@@ -1,0 +1,23 @@
+{
+  "filename": "X51005742110.jpg",
+  "error": null,
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.858
+  },
+  "date": {
+    "value": "10.47.00",
+    "confidence": 0.754
+  },
+  "items": [],
+  "total_amount": {
+    "value": "981824",
+    "confidence": 0.509,
+    "flagged": true
+  },
+  "ocr_confidence": 0.646,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

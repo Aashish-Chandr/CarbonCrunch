@@ -1,0 +1,21 @@
+{
+  "filename": "X51005749905.jpg",
+  "error": null,
+  "store_name": {
+    "value": "ENW Hardware Centre (M) Sdn: Bhd:",
+    "confidence": 0.918
+  },
+  "date": {
+    "value": "10/03/2018",
+    "confidence": 0.798
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6",
+    "confidence": 0.903
+  },
+  "ocr_confidence": 0.794,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

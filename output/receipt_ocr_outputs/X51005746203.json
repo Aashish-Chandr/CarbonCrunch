@@ -1,0 +1,28 @@
+{
+  "filename": "X51005746203.jpg",
+  "error": null,
+  "store_name": {
+    "value": "'SUPER SEVEN CASH & CARPX SDN BHD",
+    "confidence": 0.842
+  },
+  "date": {
+    "value": "01-03-2018",
+    "confidence": 0.741
+  },
+  "items": [
+    {
+      "name": "QY CINCAL 2KG",
+      "price": "03.90",
+      "confidence": 0.741
+    }
+  ],
+  "total_amount": {
+    "value": "955724",
+    "confidence": 0.496,
+    "flagged": true
+  },
+  "ocr_confidence": 0.604,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.50)"
+  ]
+}

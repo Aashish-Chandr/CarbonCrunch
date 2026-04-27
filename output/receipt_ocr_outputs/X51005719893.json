@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719893.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Dekoalbi Solnie",
+    "confidence": 0.837
+  },
+  "date": {
+    "value": "2018-01-05",
+    "confidence": 0.738
+  },
+  "items": [],
+  "total_amount": {
+    "value": "619968",
+    "confidence": 0.493,
+    "flagged": true
+  },
+  "ocr_confidence": 0.593,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.49)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

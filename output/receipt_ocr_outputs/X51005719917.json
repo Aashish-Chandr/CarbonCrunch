@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719917.jpg",
+  "error": null,
+  "store_name": {
+    "value": "DOMIKO\" $",
+    "confidence": 0.885
+  },
+  "date": {
+    "value": "12.54.37",
+    "confidence": 0.774
+  },
+  "items": [],
+  "total_amount": {
+    "value": "419060",
+    "confidence": 0.529,
+    "flagged": true
+  },
+  "ocr_confidence": 0.712,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.53)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

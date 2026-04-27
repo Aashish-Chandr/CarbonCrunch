@@ -1,0 +1,23 @@
+{
+  "filename": "X51005663300.jpg",
+  "error": null,
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.904
+  },
+  "date": {
+    "value": "02/02/2018",
+    "confidence": 0.788
+  },
+  "items": [],
+  "total_amount": {
+    "value": "75968",
+    "confidence": 0.543,
+    "flagged": true
+  },
+  "ocr_confidence": 0.761,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.54)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

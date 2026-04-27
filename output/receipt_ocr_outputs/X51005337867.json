@@ -1,0 +1,28 @@
+{
+  "filename": "X51005337867.jpg",
+  "error": null,
+  "store_name": {
+    "value": "st /zk .",
+    "confidence": 0.872
+  },
+  "date": {
+    "value": "22 Mar 18",
+    "confidence": 0.764
+  },
+  "items": [
+    {
+      "name": "Tel : 03-4148",
+      "price": "1876",
+      "confidence": 0.764
+    }
+  ],
+  "total_amount": {
+    "value": "716269",
+    "confidence": 0.519,
+    "flagged": true
+  },
+  "ocr_confidence": 0.68,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)"
+  ]
+}

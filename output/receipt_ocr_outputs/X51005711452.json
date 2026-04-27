@@ -1,0 +1,21 @@
+{
+  "filename": "X51005711452.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.891
+  },
+  "date": {
+    "value": "21/03/2018",
+    "confidence": 0.778
+  },
+  "items": [],
+  "total_amount": {
+    "value": "68",
+    "confidence": 0.883
+  },
+  "ocr_confidence": 0.727,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

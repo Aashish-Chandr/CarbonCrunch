@@ -1,0 +1,23 @@
+{
+  "filename": "X51005711454.jpg",
+  "error": null,
+  "store_name": {
+    "value": "PappaRich",
+    "confidence": 0.858
+  },
+  "date": {
+    "value": "24 Mar 18",
+    "confidence": 0.754
+  },
+  "items": [],
+  "total_amount": {
+    "value": "263370",
+    "confidence": 0.509,
+    "flagged": true
+  },
+  "ocr_confidence": 0.646,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

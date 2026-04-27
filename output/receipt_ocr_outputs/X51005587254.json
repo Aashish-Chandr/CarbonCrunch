@@ -1,0 +1,27 @@
+{
+  "filename": "X51005587254.jpg",
+  "error": null,
+  "store_name": {
+    "value": "wdwgarTISrI (udA",
+    "confidence": 0.661,
+    "flagged": true
+  },
+  "date": {
+    "value": "13/03/2017",
+    "confidence": 0.642,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "728515",
+    "confidence": 0.397,
+    "flagged": true
+  },
+  "ocr_confidence": 0.273,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.66)",
+    "LOW_CONFIDENCE:date(0.64)",
+    "LOW_CONFIDENCE:total_amount(0.40)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "summary": {
+    "total_spend": 219343051.0,
+    "number_of_transactions": 371,
+    "transactions_with_detected_total": 168,
+    "average_transaction_value": 1305613.4
+  },
+  "spend_per_store": {
+    "SECURE PARKING": {
+      "total_spend": 130088169.0,
+      "transactions": 1,
+      "average_per_transaction": 130088169.0
+    },
+    "SYARIKAT PERNIAGAAN GIN KEE": {
+      "total_spend": 18569760.0,
+      "transactions": 28,
+      "average_per_transaction": 663205.71
+    },
+    "KEDAI PAPAN YEW CHUAN": {
+      "total_spend": 6140020.0,
+      "transactions": 7,
+      "average_per_transaction": 877145.71
+    },
+    "RESTORAN WAN SHENG": {
+      "total_spend": 3937600.0,
+      "transactions": 5,
+      "average_per_transaction": 787520.0
+    },
+    "RESTORAN WAN  SHENG": {
+      "total_spend": 2496138.0,
+      "transactions": 4,
+      "average_per_transaction": 624034.5
+    },
+    "YONG CEN ENTERPRISE": {
+      "total_spend": 1963648.0,
+      "transactions": 2,
+      "average_per_transaction": 981824.0
+    },
+    "THREE": {
+      "total_spend": 1772918.0,
+      "transactions": 2,
+      "average_per_transaction": 886459.0
+    },
+    "POPULAR": {
+      "total_spend": 992000.0,
+      "transactions": 3,
+      "average_per_transaction": 330666.67
+    },
+    "POPULAR  Book": {
+      "total_spend": 992000.0,
+      "transactions": 1,
+      "average_per_transaction": 992000.0
+    },
+    "Vil": {
+      "total_spend": 992000.0,
+      "transactions": 1,
+      "average_per_transaction": 992000.0
+    },
+    "YONC CEN ENTERPRISE": {
+      "total_spend": 981824.0,
+      "transactions": 1,
+      "average_per_transaction": 981824.0
+    },
+    "BEYOND BROTHERS HARDWARE": {
+      "total_spend": 974280.0,
+      "transactions": 2,
+      "average_per_transaction": 487140.0
+    },
+    "Geoventure": {
+      "total_spend": 965857.0,
+      "transactions": 1,
+      "average_per_transaction": 965857.0
+    },
+    "BILLION SIX ENTERPRISE": {
+      "total_spend": 956640.0,
+      "transactions": 1,
+      "average_per_transaction": 956640.0
+    },
+    "PERNIAGAAN ZHENG KUI": {
+      "total_spend": 956507.0,
+      "transactions": 1,
+      "average_per_transaction": 956507.0
+    },
+    "Salon Du Chocolat": {
+      "total_spend": 955960.0,
+      "transactions": 1,
+      "average_per_transaction": 955960.0
+    },
+    "TEQ HENG sTatiqnerK & EQOKS": {
+      "total_spend": 955795.0,
+      "transactions": 1,
+      "average_per_transaction": 955795.0
+    },
+    "F&p PHARMACY": {
+      "total_spend": 955789.0,
+      "transactions": 1,
+      "average_per_transaction": 955789.0
+    },
+    "TEQ HENE STAtINERY & BddkS": {
+      "total_spend": 955758.0,
+      "transactions": 1,
+      "average_per_transaction": 955758.0
+    },
+    "BIC": {
+      "total_spend": 955730.0,
+      "transactions": 1,
+      "average_per_transaction": 955730.0
+    },
+    "HAPPY SNACKSZEENTERPRISE": {
+      "total_spend": 955629.0,
+      "transactions": 1,
+      "average_per_transaction": 955629.0
+    },
+    "SUPER SEVEN CASH & CARRY SDN 'BHD": {
+      "total_spend": 955619.0,
+      "transactions": 1,
+      "average_per_transaction": 955619.0
+    },
+    "Desa Pandan; Off kampong Pandan;": {
+      "total_spend": 943424.0,
+      "transactions": 1,
+      "average_per_transaction": 943424.0
+    },
+    "BIGC": {
+      "total_spend": 941376.0,
+      "transactions": 1,
+      "average_per_transaction": 941376.0
+    },
+    "BENS INDEPENDENT GROCER SDN; BHD": {
+      "total_spend": 941376.0,
+      "transactions": 1,
+      "average_per_transaction": 941376.0
+    },
+    "SUn Wong Kut SDN BHD": {
+      "total_spend": 922134.0,
+      "transactions": 1,
+      "average_per_transaction": 922134.0
+    },
+    "Jalan Lapangan Terbang Subang": {
+      "total_spend": 916166.0,
+      "transactions": 1,
+      "average_per_transaction": 916166.0
+    },
+    "wvivopac; com:": {
+      "total_spend": 913343.0,
+      "transactions": 1,
+      "average_per_transaction": 913343.0
+    },
+    "WWAVivopac:com": {
+      "total_spend": 913343.0,
+      "transactions": 1,
+      "average_per_transaction": 913343.0
+    },
+    "WWW,vivopac Com": {
+      "total_spend": 913105.0,
+      "transactions": 1,
+      "average_per_transaction": 913105.0
+    },
+    "Strfh": {
+      "total_spend": 910845.0,
+      "transactions": 1,
+      "average_per_transaction": 910845.0
+    },
+    "MR,D": {
+      "total_spend": 906786.0,
+      "transactions": 1,
+      "average_per_transaction": 906786.0
+    },
+    "MR:_": {
+      "total_spend": 902119.0,
+      "transactions": 1,
+      "average_per_transaction": 902119.0
+    },
+    "Khoo KARDWARE SDN BHD": {
+      "total_spend": 894102.0,
+      "transactions": 1,
+      "average_per_transaction": 894102.0
+    },
+    "HENG": {
+      "total_spend": 890176.0,
+      "transactions": 1,
+      "average_per_transaction": 890176.0
+    },
+    "MR ,": {
+      "total_spend": 886534.0,
+      "transactions": 2,
+      "average_per_transaction": 443267.0
+    },
+    "HatNeyNemal": {
+      "total_spend": 880002.0,
+      "transactions": 1,
+      "average_per_transaction": 880002.0
+    },
+    "~jt": {
+      "total_spend": 876860.0,
+      "transactions": 1,
+      "average_per_transaction": 876860.0
+    },
+    "Nxr": {
+      "total_spend": 876860.0,
+      "transactions": 1,
+      "average_per_transaction": 876860.0
+    },
+    "Camb": {
+      "total_spend": 876860.0,
+      "transactions": 1,
+      "average_per_transaction": 876860.0
+    },
+    "KEDA": {
+      "total_spend": 876860.0,
+      "transactions": 1,
+      "average_per_transaction": 876860.0
+    },
+    "Ceke": {
+      "total_spend": 876860.0,
+      "transactions": 1,
+      "average_per_transaction": 876860.0
+    },
+    "RESTORAN IBRAHIM MAJU SB": {
+      "total_spend": 873426.0,
+      "transactions": 1,
+      "average_per_transaction": 873426.0
+    },
+    "UROKO JAPANESE CUISINE SDN BHD": {
+      "total_spend": 838272.0,
+      "transactions": 1,
+      "average_per_transaction": 838272.0
+    },
+    "AL MENDIS-THE MINES": {
+      "total_spend": 803014.0,
+      "transactions": 1,
+      "average_per_transaction": 803014.0
+    },
+    "PERNIAGAAN ZHENG HUI": {
+      "total_spend": 800639.0,
+      "transactions": 1,
+      "average_per_transaction": 800639.0
+    },
+    "RESTTARAN HAN  SHENG": {
+      "total_spend": 797520.0,
+      "transactions": 1,
+      "average_per_transaction": 797520.0
+    },
+    "NYONYA": {
+      "total_spend": 772822.0,
+      "transactions": 1,
+      "average_per_transaction": 772822.0
+    },
+    "ADVANCO COMPANY": {
+      "total_spend": 725186.0,
+      "transactions": 1,
+      "average_per_transaction": 725186.0
+    },
+    "TAMAN SRI RAMPAI ,": {
+      "total_spend": 721536.0,
+      "transactions": 1,
+      "average_per_transaction": 721536.0
+    },
+    "st /zk .": {
+      "total_spend": 716269.0,
+      "transactions": 1,
+      "average_per_transaction": 716269.0
+    },
+    "HrT": {
+      "total_spend": 673920.0,
+      "transactions": 1,
+      "average_per_transaction": 673920.0
+    },
+    "L*n%;": {
+      "total_spend": 673920.0,
+      "transactions": 1,
+      "average_per_transaction": 673920.0
+    },
+    "SUSHI  MENTAI": {
+      "total_spend": 673381.0,
+      "transactions": 1,
+      "average_per_transaction": 673381.0
+    },
+    "BREWERY": {
+      "total_spend": 626292.0,
+      "transactions": 1,
+      "average_per_transaction": 626292.0
+    },
+    "Zen and coffee 28 S/8": {
+      "total_spend": 626193.0,
+      "transactions": 1,
+      "average_per_transaction": 626193.0
+    },
+    "Super Terminal San Bhd": {
+      "total_spend": 625122.0,
+      "transactions": 1,
+      "average_per_transaction": 625122.0
+    },
+    "#alliiX _": {
+      "total_spend": 613777.0,
+      "transactions": 1,
+      "average_per_transaction": 613777.0
+    },
+    "SAINT HEART PASTRY": {
+      "total_spend": 613728.0,
+      "transactions": 1,
+      "average_per_transaction": 613728.0
+    },
+    "MY HAPPY PHARMAcY PLT": {
+      "total_spend": 603426.0,
+      "transactions": 1,
+      "average_per_transaction": 603426.0
+    },
+    "PETRODELI ENTERPRISE": {
+      "total_spend": 600001.0,
+      "transactions": 1,
+      "average_per_transaction": 600001.0
+    },
+    "Shell": {
+      "total_spend": 600000.0,
+      "transactions": 1,
+      "average_per_transaction": 600000.0
+    },
+    "PASARAYA BORONG PINTAR": {
+      "total_spend": 549985.0,
+      "transactions": 4,
+      "average_per_transaction": 137496.25
+    },
+    "& BISTRO own by CNU TRADING": {
+      "total_spend": 504233.0,
+      "transactions": 1,
+      "average_per_transaction": 504233.0
+    },
+    "AEON C0 , (M) BHd __": {
+      "total_spend": 497295.0,
+      "transactions": 1,
+      "average_per_transaction": 497295.0
+    },
+    "pdos": {
+      "total_spend": 492992.0,
+      "transactions": 1,
+      "average_per_transaction": 492992.0
+    },
+    "KON KWA KARDWARE TRADING": {
+      "total_spend": 440714.0,
+      "transactions": 2,
+      "average_per_transaction": 220357.0
+    },
+    "DOMIKO\" $": {
+      "total_spend": 419060.0,
+      "transactions": 1,
+      "average_per_transaction": 419060.0
+    },
+    "LIAN CHI PU TIAN VEGETARIAN": {
+      "total_spend": 416576.0,
+      "transactions": 1,
+      "average_per_transaction": 416576.0
+    },
+    "POTTERS": {
+      "total_spend": 400016.0,
+      "transactions": 1,
+      "average_per_transaction": 400016.0
+    },
+    "JLN JEJAKA,   TAMAN  MALURI": {
+      "total_spend": 394688.0,
+      "transactions": 1,
+      "average_per_transaction": 394688.0
+    },
+    "Rx k .": {
+      "total_spend": 390272.0,
+      "transactions": 1,
+      "average_per_transaction": 390272.0
+    },
+    "Czxjzh)": {
+      "total_spend": 324404.0,
+      "transactions": 1,
+      "average_per_transaction": 324404.0
+    },
+    "L TWO:FLORIST & HANDICRAFT": {
+      "total_spend": 321644.0,
+      "transactions": 1,
+      "average_per_transaction": 321644.0
+    },
+    "LAN HING STATIONERY SDN BHD": {
+      "total_spend": 318030.0,
+      "transactions": 1,
+      "average_per_transaction": 318030.0
+    },
+    "WESTERN": {
+      "total_spend": 318020.0,
+      "transactions": 1,
+      "average_per_transaction": 318020.0
+    },
+    "LIM SENG THO HARDWARE TRADING": {
+      "total_spend": 303872.0,
+      "transactions": 4,
+      "average_per_transaction": 75968.0
+    },
+    "ROCKU": {
+      "total_spend": 271488.0,
+      "transactions": 1,
+      "average_per_transaction": 271488.0
+    },
+    "PappaRich": {
+      "total_spend": 263370.0,
+      "transactions": 1,
+      "average_per_transaction": 263370.0
+    },
+    "KHE ELECTRICAL TRADING": {
+      "total_spend": 221031.0,
+      "transactions": 1,
+      "average_per_transaction": 221031.0
+    },
+    "parkin[ \" robi Ns": {
+      "total_spend": 148416.0,
+      "transactions": 1,
+      "average_per_transaction": 148416.0
+    },
+    "RESTORAN HAN SHENG": {
+      "total_spend": 133678.0,
+      "transactions": 1,
+      "average_per_transaction": 133678.0
+    },
+    "ENTERFRISE SDN BAD": {
+      "total_spend": 125830.0,
+      "transactions": 1,
+      "average_per_transaction": 125830.0
+    },
+    "KIKU": {
+      "total_spend": 120215.0,
+      "transactions": 1,
+      "average_per_transaction": 120215.0
+    },
+    "RESTQRAN WAN SHENG": {
+      "total_spend": 113357.0,
+      "transactions": 1,
+      "average_per_transaction": 113357.0
+    },
+    "MOMI": {
+      "total_spend": 88924.0,
+      "transactions": 1,
+      "average_per_transaction": 88924.0
+    },
+    "LIM SENG THo HARDWARE TRADING": {
+      "total_spend": 75968.0,
+      "transactions": 1,
+      "average_per_transaction": 75968.0
+    },
+    "RESTAURANT  J IAWE |": {
+      "total_spend": 57000.0,
+      "transactions": 1,
+      "average_per_transaction": 57000.0
+    },
+    "RESTAURANT": {
+      "total_spend": 57000.0,
+      "transactions": 1,
+      "average_per_transaction": 57000.0
+    },
+    "BHPetro] Palekbang": {
+      "total_spend": 29721.0,
+      "transactions": 1,
+      "average_per_transaction": 29721.0
+    },
+    "Lot 'P;T:": {
+      "total_spend": 21300.0,
+      "transactions": 1,
+      "average_per_transaction": 21300.0
+    },
+    "tpgosv": {
+      "total_spend": 4820.0,
+      "transactions": 1,
+      "average_per_transaction": 4820.0
+    },
+    "QNIRAKKA INTERNATIONAL,SDNBRD": {
+      "total_spend": 4690.0,
+      "transactions": 1,
+      "average_per_transaction": 4690.0
+    },
+    "#ozasz": {
+      "total_spend": 3820.0,
+      "transactions": 1,
+      "average_per_transaction": 3820.0
+    },
+    "Aozfi7": {
+      "total_spend": 880.0,
+      "transactions": 1,
+      "average_per_transaction": 880.0
+    },
+    "UNIHAKKAINTERNATIONAL SDN BHD": {
+      "total_spend": 820.0,
+      "transactions": 1,
+      "average_per_transaction": 820.0
+    },
+    "tan": {
+      "total_spend": 683.0,
+      "transactions": 3,
+      "average_per_transaction": 227.67
+    },
+    "PASARAYA BORONG PINTAR:": {
+      "total_spend": 400.0,
+      "transactions": 1,
+      "average_per_transaction": 400.0
+    },
+    "Krein": {
+      "total_spend": 88.0,
+      "transactions": 1,
+      "average_per_transaction": 88.0
+    },
+    "Gerbang Alaf Restaurants Sdn Bhd": {
+      "total_spend": 74.0,
+      "transactions": 2,
+      "average_per_transaction": 37.0
+    },
+    "IANHING STATIONERY SDN BHD": {
+      "total_spend": 69.0,
+      "transactions": 1,
+      "average_per_transaction": 69.0
+    },
+    "Gerbang ' Alaf  Restaurants Sdn Bhd": {
+      "total_spend": 68.0,
+      "transactions": 1,
+      "average_per_transaction": 68.0
+    },
+    "MODERN": {
+      "total_spend": 67.0,
+      "transactions": 1,
+      "average_per_transaction": 67.0
+    },
+    "(Ra (Ozzole- {HLSDNGHD": {
+      "total_spend": 63.0,
+      "transactions": 1,
+      "average_per_transaction": 63.0
+    },
+    "(Rs @SEaVk (C)SDMBHD": {
+      "total_spend": 63.0,
+      "transactions": 1,
+      "average_per_transaction": 63.0
+    },
+    "Your order number is": {
+      "total_spend": 46.0,
+      "transactions": 1,
+      "average_per_transaction": 46.0
+    },
+    "Io EEN LaNe PHARHACY  SDN  BHD": {
+      "total_spend": 31.0,
+      "transactions": 1,
+      "average_per_transaction": 31.0
+    },
+    "BERED (SP) SDH_ BHD_": {
+      "total_spend": 8.0,
+      "transactions": 1,
+      "average_per_transaction": 8.0
+    },
+    "Gerbang ATaf Restaurants Sdn Bhd": {
+      "total_spend": 6.0,
+      "transactions": 1,
+      "average_per_transaction": 6.0
+    },
+    "IRANO: Ha_deL  SDN 'BHD": {
+      "total_spend": 6.0,
+      "transactions": 1,
+      "average_per_transaction": 6.0
+    },
+    "PrEMO": {
+      "total_spend": 6.0,
+      "transactions": 1,
+      "average_per_transaction": 6.0
+    },
+    "Qerbang Alaf Restaurants Sun Bhd": {
+      "total_spend": 6.0,
+      "transactions": 1,
+      "average_per_transaction": 6.0
+    },
+    "Gerbang Alaf Restaurants Sdhn Bhd": {
+      "total_spend": 6.0,
+      "transactions": 1,
+      "average_per_transaction": 6.0
+    },
+    "'MR : 0.12; (M)": {
+      "total_spend": 6.0,
+      "transactions": 1,
+      "average_per_transaction": 6.0
+    },
+    "ENW Hardware Centre (M) Sdn: Bhd:": {
+      "total_spend": 6.0,
+      "transactions": 1,
+      "average_per_transaction": 6.0
+    },
+    "Lim SENG THO HARDWARE TRADING": {
+      "total_spend": 3.0,
+      "transactions": 1,
+      "average_per_transaction": 3.0
+    },
+    "DOLLAR TREE": {
+      "total_spend": 1.0,
+      "transactions": 1,
+      "average_per_transaction": 1.0
+    }
+  },
+  "reliability": {
+    "low_confidence_receipt_images": [
+      "0.jpg",
+      "1.jpg",
+      "10.jpg",
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg",
+      "15.jpg",
+      "16.jpg",
+      "17.jpg",
+      "18.jpg",
+      "19.jpg",
+      "2.jpg",
+      "21.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "X00016469612.jpg",
+      "X00016469619.jpg",
+      "X00016469620.jpg",
+      "X00016469622.jpg",
+      "X00016469623.jpg",
+      "X00016469669.jpg",
+      "X00016469670.jpg",
+      "X00016469671.jpg",
+      "X00016469672.jpg",
+      "X00016469676.jpg",
+      "X51005230605.jpg",
+      "X51005230621.jpg",
+      "X51005230648.jpg",
+      "X51005230657.jpg",
+      "X51005230659.jpg",
+      "X51005255805.jpg",
+      "X51005268200.jpg",
+      "X51005268262.jpg",
+      "X51005268275.jpg",
+      "X51005268400.jpg",
+      "X51005268408.jpg",
+      "X51005268472.jpg",
+      "X51005301659.jpg",
+      "X51005301661.jpg",
+      "X51005301666.jpg",
+      "X51005301667.jpg",
+      "X51005303661.jpg",
+      "X51005361883.jpg",
+      "X51005361895.jpg",
+      "X51005361897.jpg",
+      "X51005361898.jpg",
+      "X51005361900.jpg",
+      "X51005361908.jpg",
+      "X51005361912.jpg",
+      "X51005361923.jpg",
+      "X51005361946.jpg",
+      "X51005361950.jpg",
+      "X51005433492.jpg",
+      "X51005433494.jpg",
+      "X51005433514.jpg",
+      "X51005433518.jpg",
+      "X51005433522.jpg",
+      "X51005433533.jpg",
+      "X51005433538.jpg",
+      "X51005433541.jpg",
+      "X51005433543.jpg",
+      "X51005433548.jpg",
+      "X51005433552.jpg",
+      "X51005433553.jpg",
+      "X51005433556.jpg",
+      "X51005442322.jpg",
+      "X51005442327.jpg",
+      "X51005442333.jpg",
+      "X51005442334.jpg",
+      "X51005442338.jpg",
+      "X51005442341.jpg",
+      "X51005442343.jpg",
+      "X51005442344.jpg",
+      "X51005442346.jpg",
+      "X51005442361.jpg",
+      "X51005442366.jpg",
+      "X51005442375.jpg",
+      "X51005442376.jpg",
+      "X51005442378.jpg",
+      "X51005442379.jpg",
+      "X51005442382.jpg",
+      "X51005442383.jpg",
+      "X51005442384.jpg",
+      "X51005442386.jpg",
+      "X51005442388.jpg",
+      "X51005442392.jpg",
+      "X51005442394.jpg",
+      "X51005442397.jpg",
+      "X51005444045.jpg",
+      "X51005447852.jpg",
+      "X51005447853.jpg",
+      "X51005447861.jpg",
+      "X51005453801.jpg",
+      "X51005568827.jpg",
+      "X51005568855.jpg",
+      "X51005568866.jpg",
+      "X51005568881.jpg",
+      "X51005568885.jpg",
+      "X51005568887.jpg",
+      "X51005568890.jpg",
+      "X51005568892.jpg",
+      "X51005568900.jpg",
+      "X51005568913.jpg",
+      "X51005568914.jpg",
+      "X51005577191.jpg",
+      "X51005577192.jpg",
+      "X51005582745.jpg",
+      "X51005587254.jpg",
+      "X51005587261.jpg",
+      "X51005587267.jpg",
+      "X51005605287.jpg",
+      "X51005605295.jpg",
+      "X51005605333.jpg",
+      "X51005605335.jpg",
+      "X51005663272.jpg",
+      "X51005663273.jpg",
+      "X51005663276.jpg",
+      "X51005663277.jpg",
+      "X51005663278.jpg",
+      "X51005663280.jpg",
+      "X51005663293.jpg",
+      "X51005663309.jpg",
+      "X51005663323.jpg",
+      "X51005675095.jpg",
+      "X51005675914.jpg",
+      "X51005705722.jpg",
+      "X51005705727.jpg",
+      "X51005705729.jpg",
+      "X51005705760.jpg",
+      "X51005705784.jpg",
+      "X51005705804.jpg",
+      "X51005710963.jpg",
+      "X51005711451.jpg",
+      "X51005711453.jpg",
+      "X51005712038.jpg",
+      "X51005715007.jpg",
+      "X51005715010.jpg",
+      "X51005715451.jpg",
+      "X51005715455.jpg",
+      "X51005719823.jpg",
+      "X51005719862.jpg",
+      "X51005719863.jpg",
+      "X51005719864.jpg",
+      "X51005719874.jpg",
+      "X51005719882.jpg",
+      "X51005719883.jpg",
+      "X51005719886.jpg",
+      "X51005719893.jpg",
+      "X51005719895.jpg",
+      "X51005719896.jpg",
+      "X51005719898.jpg",
+      "X51005719902.jpg",
+      "X51005719904.jpg",
+      "X51005719912.jpg",
+      "X51005719914.jpg",
+      "X51005741929.jpg",
+      "X51005745187.jpg",
+      "X51005745188.jpg",
+      "X51005745190.jpg",
+      "X51005745213.jpg",
+      "X51005745214.jpg",
+      "X51005745244.jpg",
+      "X51005745249.jpg",
+      "X51005745298.jpg",
+      "X51005746204.jpg",
+      "X51005746206.jpg",
+      "X51005746210.jpg",
+      "X51005749912.jpg",
+      "X51005757199.jpg",
+      "X51005757201.jpg",
+      "X51005757233.jpg",
+      "X51005757235.jpg",
+      "X51005757243.jpg",
+      "X51005757248.jpg",
+      "X51005757273.jpg",
+      "X51005757282.jpg",
+      "X51005757286.jpg",
+      "X51005757290.jpg",
+      "X51005757292.jpg",
+      "X51005757294.jpg",
+      "X51005757304.jpg",
+      "X51005757308.jpg",
+      "X51005757323.jpg",
+      "X51005757324.jpg",
+      "X51005757342.jpg",
+      "X51005757346.jpg",
+      "X51005757349.jpg",
+      "X51005757351.jpg",
+      "X51005757353.jpg",
+      "X51005763958.jpg",
+      "X51005763999.jpg",
+      "X51005764031.jpg",
+      "X51005764161.jpg",
+      "X51005806678.jpg",
+      "X51005806679.jpg",
+      "X51005806685.jpg",
+      "X51005806692.jpg",
+      "X51005806695.jpg",
+      "X51005806696.jpg",
+      "X51005806698.jpg",
+      "X51005806702.jpg",
+      "X51005806703.jpg",
+      "X51005806716.jpg",
+      "X51005806718.jpg",
+      "X51005806719.jpg"
+    ],
+    "total_flagged_fields": 620,
+    "note": "Transactions with total_amount confidence < 0.5 excluded from totals"
+  }
+}

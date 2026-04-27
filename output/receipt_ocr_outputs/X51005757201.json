@@ -1,0 +1,27 @@
+{
+  "filename": "X51005757201.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SRUrlrh 4E_UIAHAUHH4URI SC",
+    "confidence": 0.576,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "940781",
+    "confidence": 0.386,
+    "flagged": true
+  },
+  "ocr_confidence": 0.237,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.58)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.39)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

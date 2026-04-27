@@ -1,0 +1,23 @@
+{
+  "filename": "X51005441407.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Geoventure",
+    "confidence": 0.923
+  },
+  "date": {
+    "value": "5/3/2018",
+    "confidence": 0.802
+  },
+  "items": [],
+  "total_amount": {
+    "value": "965857",
+    "confidence": 0.557,
+    "flagged": true
+  },
+  "ocr_confidence": 0.807,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.56)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

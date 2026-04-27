@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568914.jpg",
+  "error": null,
+  "store_name": {
+    "value": "IRANO: Ha_deL  SDN 'BHD",
+    "confidence": 0.465,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6",
+    "confidence": 0.815
+  },
+  "ocr_confidence": 0.501,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.47)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005568881.jpg",
+  "error": null,
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.827
+  },
+  "date": {
+    "value": "10.20.37",
+    "confidence": 0.73
+  },
+  "items": [],
+  "total_amount": {
+    "value": "252203",
+    "confidence": 0.485,
+    "flagged": true
+  },
+  "ocr_confidence": 0.568,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

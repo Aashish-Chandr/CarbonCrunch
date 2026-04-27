@@ -1,0 +1,25 @@
+{
+  "filename": "X51005724611.jpg",
+  "error": null,
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 0.908
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "876860",
+    "confidence": 0.546,
+    "flagged": true
+  },
+  "ocr_confidence": 0.769,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

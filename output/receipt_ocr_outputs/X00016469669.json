@@ -1,0 +1,25 @@
+{
+  "filename": "X00016469669.jpg",
+  "error": null,
+  "store_name": {
+    "value": "tan;",
+    "confidence": 0.773
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "835582",
+    "confidence": 0.444,
+    "flagged": true
+  },
+  "ocr_confidence": 0.431,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.44)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

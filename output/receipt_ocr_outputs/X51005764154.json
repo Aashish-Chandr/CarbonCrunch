@@ -1,0 +1,23 @@
+{
+  "filename": "X51005764154.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Dis ,",
+    "confidence": 0.84
+  },
+  "date": {
+    "value": "25-01-2018",
+    "confidence": 0.74
+  },
+  "items": [],
+  "total_amount": {
+    "value": "537422",
+    "confidence": 0.495,
+    "flagged": true
+  },
+  "ocr_confidence": 0.601,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.49)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

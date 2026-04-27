@@ -1,0 +1,23 @@
+{
+  "filename": "X51005711451.jpg",
+  "error": null,
+  "store_name": {
+    "value": "WAn  SHEHG",
+    "confidence": 0.832
+  },
+  "date": {
+    "value": "05-03-2018",
+    "confidence": 0.734
+  },
+  "items": [],
+  "total_amount": {
+    "value": "182578",
+    "confidence": 0.489,
+    "flagged": true
+  },
+  "ocr_confidence": 0.579,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.49)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

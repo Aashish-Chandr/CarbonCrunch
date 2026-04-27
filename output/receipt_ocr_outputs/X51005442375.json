@@ -1,0 +1,25 @@
+{
+  "filename": "X51005442375.jpg",
+  "error": null,
+  "store_name": {
+    "value": "linz Wz \"",
+    "confidence": 0.704
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "788732",
+    "confidence": 0.393,
+    "flagged": true
+  },
+  "ocr_confidence": 0.26,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.39)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

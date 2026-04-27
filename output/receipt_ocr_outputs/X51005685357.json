@@ -1,0 +1,23 @@
+{
+  "filename": "X51005685357.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Strfh",
+    "confidence": 0.841
+  },
+  "date": {
+    "value": "02/03/18",
+    "confidence": 0.767
+  },
+  "items": [],
+  "total_amount": {
+    "value": "910845",
+    "confidence": 0.522,
+    "flagged": true
+  },
+  "ocr_confidence": 0.692,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

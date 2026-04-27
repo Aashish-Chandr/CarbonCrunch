@@ -1,0 +1,25 @@
+{
+  "filename": "X51005577191.jpg",
+  "error": null,
+  "store_name": {
+    "value": "EAGLE",
+    "confidence": 0.776
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "974384",
+    "confidence": 0.447,
+    "flagged": true
+  },
+  "ocr_confidence": 0.44,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.45)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568887.jpg",
+  "error": null,
+  "store_name": {
+    "value": "KQn KWA KARDWARETRADING",
+    "confidence": 0.765
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "252203",
+    "confidence": 0.439,
+    "flagged": true
+  },
+  "ocr_confidence": 0.412,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.44)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

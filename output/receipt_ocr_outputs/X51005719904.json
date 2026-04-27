@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719904.jpg",
+  "error": null,
+  "store_name": {
+    "value": "~am Fresh",
+    "confidence": 0.81
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.717
+  },
+  "items": [],
+  "total_amount": {
+    "value": "13478,48",
+    "confidence": 0.472,
+    "flagged": true
+  },
+  "ocr_confidence": 0.524,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.47)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

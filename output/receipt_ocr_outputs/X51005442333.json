@@ -1,0 +1,23 @@
+{
+  "filename": "X51005442333.jpg",
+  "error": null,
+  "store_name": {
+    "value": "QNIRAKKA INTERNATIONAL,SDNBRD",
+    "confidence": 0.704
+  },
+  "date": {
+    "value": "27 Mar 2018",
+    "confidence": 0.638,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "46,90",
+    "confidence": 0.743
+  },
+  "ocr_confidence": 0.261,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.64)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

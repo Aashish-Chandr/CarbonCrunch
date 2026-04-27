@@ -1,0 +1,23 @@
+{
+  "filename": "X51005741929.jpg",
+  "error": null,
+  "store_name": {
+    "value": "MyMydin Subang Bestari 2300_",
+    "confidence": 0.741
+  },
+  "date": {
+    "value": "5/01/2018",
+    "confidence": 0.803
+  },
+  "items": [],
+  "total_amount": {
+    "value": "971264",
+    "confidence": 0.453,
+    "flagged": true
+  },
+  "ocr_confidence": 0.46,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.45)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

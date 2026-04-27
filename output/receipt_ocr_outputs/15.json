@@ -1,0 +1,27 @@
+{
+  "filename": "15.jpg",
+  "error": null,
+  "store_name": {
+    "value": "pegorecelet:",
+    "confidence": 0.63,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "207634",
+    "confidence": 0.374,
+    "flagged": true
+  },
+  "ocr_confidence": 0.196,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.63)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.37)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

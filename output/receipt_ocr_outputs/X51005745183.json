@@ -1,0 +1,23 @@
+{
+  "filename": "X51005745183.jpg",
+  "error": null,
+  "store_name": {
+    "value": "BILLION SIX ENTERPRISE",
+    "confidence": 0.863
+  },
+  "date": {
+    "value": "22/02/2018",
+    "confidence": 0.757
+  },
+  "items": [],
+  "total_amount": {
+    "value": "956640",
+    "confidence": 0.512,
+    "flagged": true
+  },
+  "ocr_confidence": 0.656,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

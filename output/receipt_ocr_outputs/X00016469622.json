@@ -1,0 +1,25 @@
+{
+  "filename": "X00016469622.jpg",
+  "error": null,
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 0.821
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "517726",
+    "confidence": 0.481,
+    "flagged": true
+  },
+  "ocr_confidence": 0.553,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005663298.jpg",
+  "error": null,
+  "store_name": {
+    "value": "AL MENDIS-THE MINES",
+    "confidence": 0.907
+  },
+  "date": {
+    "value": "21-03-2018",
+    "confidence": 0.791
+  },
+  "items": [],
+  "total_amount": {
+    "value": "803014",
+    "confidence": 0.546,
+    "flagged": true
+  },
+  "ocr_confidence": 0.769,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

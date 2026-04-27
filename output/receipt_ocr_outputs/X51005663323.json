@@ -1,0 +1,23 @@
+{
+  "filename": "X51005663323.jpg",
+  "error": null,
+  "store_name": {
+    "value": "KOH",
+    "confidence": 0.779
+  },
+  "date": {
+    "value": "04/12/2017",
+    "confidence": 0.799
+  },
+  "items": [],
+  "total_amount": {
+    "value": "765094",
+    "confidence": 0.449,
+    "flagged": true
+  },
+  "ocr_confidence": 0.448,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.45)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005361907.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TEQ HENE STAtINERY & BddkS",
+    "confidence": 0.869
+  },
+  "date": {
+    "value": "12/02/2018",
+    "confidence": 0.762
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955758",
+    "confidence": 0.517,
+    "flagged": true
+  },
+  "ocr_confidence": 0.672,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

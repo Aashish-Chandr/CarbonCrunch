@@ -1,0 +1,23 @@
+{
+  "filename": "1.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TRADER JOE \"$",
+    "confidence": 0.793
+  },
+  "date": {
+    "value": "06-28-2014",
+    "confidence": 0.705
+  },
+  "items": [],
+  "total_amount": {
+    "value": "75206",
+    "confidence": 0.46,
+    "flagged": true
+  },
+  "ocr_confidence": 0.482,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.46)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

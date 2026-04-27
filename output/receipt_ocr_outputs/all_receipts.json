@@ -1,0 +1,9092 @@
+[
+  {
+    "filename": "0.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WAL MART",
+      "confidence": 0.795
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "872891",
+      "confidence": 0.461,
+      "flagged": true
+    },
+    "ocr_confidence": 0.487,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "1.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TRADER JOE \"$",
+      "confidence": 0.793
+    },
+    "date": {
+      "value": "06-28-2014",
+      "confidence": 0.705
+    },
+    "items": [],
+    "total_amount": {
+      "value": "75206",
+      "confidence": 0.46,
+      "flagged": true
+    },
+    "ocr_confidence": 0.482,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "10.jpg",
+    "error": null,
+    "store_name": {
+      "value": "GBARI",
+      "confidence": 0.739
+    },
+    "date": {
+      "value": "28.02.21",
+      "confidence": 0.664,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "720399",
+      "confidence": 0.419,
+      "flagged": true
+    },
+    "ocr_confidence": 0.348,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.66)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "11.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WBBE",
+      "confidence": 0.832
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "94135",
+      "confidence": 0.489,
+      "flagged": true
+    },
+    "ocr_confidence": 0.58,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "12.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WAL+MART",
+      "confidence": 0.731
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "872878",
+      "confidence": 0.414,
+      "flagged": true
+    },
+    "ocr_confidence": 0.329,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "13.jpg",
+    "error": null,
+    "store_name": {
+      "value": "{D; #:",
+      "confidence": 0.675,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "5095,928",
+      "confidence": 0.372,
+      "flagged": true
+    },
+    "ocr_confidence": 0.189,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "14.jpg",
+    "error": null,
+    "store_name": {
+      "value": "UWYEZ4T",
+      "confidence": 0.71
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "868431",
+      "confidence": 0.397,
+      "flagged": true
+    },
+    "ocr_confidence": 0.274,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "15.jpg",
+    "error": null,
+    "store_name": {
+      "value": "pegorecelet:",
+      "confidence": 0.63,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "207634",
+      "confidence": 0.374,
+      "flagged": true
+    },
+    "ocr_confidence": 0.196,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.63)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "16.jpg",
+    "error": null,
+    "store_name": {
+      "value": "~ .",
+      "confidence": 0.732
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "986886",
+      "confidence": 0.414,
+      "flagged": true
+    },
+    "ocr_confidence": 0.329,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "17.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Vortn",
+      "confidence": 0.688,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "834938",
+      "confidence": 0.381,
+      "flagged": true
+    },
+    "ocr_confidence": 0.219,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "18.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ilxok",
+      "confidence": 0.697,
+      "flagged": true
+    },
+    "date": {
+      "value": "10/31/21",
+      "confidence": 0.633,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "874732",
+      "confidence": 0.388,
+      "flagged": true
+    },
+    "ocr_confidence": 0.244,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.63)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "19.jpg",
+    "error": null,
+    "store_name": {
+      "value": "bwflctta",
+      "confidence": 0.706
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "741705",
+      "confidence": 0.394,
+      "flagged": true
+    },
+    "ocr_confidence": 0.264,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "2.jpg",
+    "error": null,
+    "store_name": {
+      "value": "'Hp) etT",
+      "confidence": 0.696,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [
+      {
+        "name": "DEXAS 15x20",
+        "price": "008429",
+        "confidence": 0.632
+      }
+    ],
+    "total_amount": {
+      "value": "926734",
+      "confidence": 0.387,
+      "flagged": true
+    },
+    "ocr_confidence": 0.239,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)"
+    ]
+  },
+  {
+    "filename": "20.png",
+    "error": null,
+    "store_name": {
+      "value": "DOLLAR TREE",
+      "confidence": 0.889
+    },
+    "date": {
+      "value": "9/17/22",
+      "confidence": 0.777
+    },
+    "items": [],
+    "total_amount": {
+      "value": "1",
+      "confidence": 0.882
+    },
+    "ocr_confidence": 0.723,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "21.jpg",
+    "error": null,
+    "store_name": {
+      "value": "DoLlar Tnee",
+      "confidence": 0.695,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "33147,494",
+      "confidence": 0.387,
+      "flagged": true
+    },
+    "ocr_confidence": 0.239,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "3.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Xcndq;",
+      "confidence": 0.701
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "861541",
+      "confidence": 0.391,
+      "flagged": true
+    },
+    "ocr_confidence": 0.252,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "4.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Walmart",
+      "confidence": 0.757
+    },
+    "date": {
+      "value": "12/08/16",
+      "confidence": 0.678,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "995026",
+      "confidence": 0.433,
+      "flagged": true
+    },
+    "ocr_confidence": 0.392,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.68)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "5.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WHOLE FOODS",
+      "confidence": 0.819
+    },
+    "date": {
+      "value": "9/15/2020",
+      "confidence": 0.724
+    },
+    "items": [],
+    "total_amount": {
+      "value": "707908",
+      "confidence": 0.479,
+      "flagged": true
+    },
+    "ocr_confidence": 0.548,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "6.JPG",
+    "error": null,
+    "store_name": {
+      "value": "MOMI",
+      "confidence": 0.855
+    },
+    "date": {
+      "value": "26/01/2015",
+      "confidence": 0.752
+    },
+    "items": [],
+    "total_amount": {
+      "value": "88924",
+      "confidence": 0.507,
+      "flagged": true
+    },
+    "ocr_confidence": 0.639,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "7.jpg",
+    "error": null,
+    "store_name": {
+      "value": "~ .",
+      "confidence": 0.732
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "986886",
+      "confidence": 0.414,
+      "flagged": true
+    },
+    "ocr_confidence": 0.329,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "8.jpg",
+    "error": null,
+    "store_name": {
+      "value": "jierntew #823",
+      "confidence": 0.637,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "967595",
+      "confidence": 0.395,
+      "flagged": true
+    },
+    "ocr_confidence": 0.266,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.64)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "9.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MVimGo",
+      "confidence": 0.766
+    },
+    "date": {
+      "value": "09/08/14",
+      "confidence": 0.685,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "880003",
+      "confidence": 0.44,
+      "flagged": true
+    },
+    "ocr_confidence": 0.416,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.69)",
+      "LOW_CONFIDENCE:total_amount(0.44)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469612.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan woon yann",
+      "confidence": 0.817
+    },
+    "date": {
+      "value": "25/12/2018",
+      "confidence": 0.723
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955693",
+      "confidence": 0.478,
+      "flagged": true
+    },
+    "ocr_confidence": 0.543,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469619.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan woon yann",
+      "confidence": 0.821
+    },
+    "date": {
+      "value": "19/10/2018",
+      "confidence": 0.726
+    },
+    "items": [],
+    "total_amount": {
+      "value": "355816",
+      "confidence": 0.481,
+      "flagged": true
+    },
+    "ocr_confidence": 0.552,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469620.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan woon yann",
+      "confidence": 0.829
+    },
+    "date": {
+      "value": "12-01-19",
+      "confidence": 0.732
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955703",
+      "confidence": 0.487,
+      "flagged": true
+    },
+    "ocr_confidence": 0.573,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469622.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan woon yann",
+      "confidence": 0.821
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "517726",
+      "confidence": 0.481,
+      "flagged": true
+    },
+    "ocr_confidence": 0.553,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469623.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan woon yann",
+      "confidence": 0.78
+    },
+    "date": {
+      "value": "18-11-18",
+      "confidence": 0.695,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "956591",
+      "confidence": 0.45,
+      "flagged": true
+    },
+    "ocr_confidence": 0.449,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.69)",
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469669.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan;",
+      "confidence": 0.773
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "835582",
+      "confidence": 0.444,
+      "flagged": true
+    },
+    "ocr_confidence": 0.431,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.44)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469670.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan",
+      "confidence": 0.771
+    },
+    "date": {
+      "value": "15/01/2019",
+      "confidence": 0.688,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "0683",
+      "confidence": 0.793
+    },
+    "ocr_confidence": 0.428,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.69)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469671.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan chay",
+      "confidence": 0.742
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "538358",
+      "confidence": 0.421,
+      "flagged": true
+    },
+    "ocr_confidence": 0.354,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469672.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan",
+      "confidence": 0.775
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "09744,00",
+      "confidence": 0.447,
+      "flagged": true
+    },
+    "ocr_confidence": 0.438,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X00016469676.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tan",
+      "confidence": 0.755
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "828688",
+      "confidence": 0.431,
+      "flagged": true
+    },
+    "ocr_confidence": 0.386,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005200931.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PERNIAGAAN ZHENG HUI",
+      "confidence": 0.873
+    },
+    "date": {
+      "value": "09/02/2018",
+      "confidence": 0.765
+    },
+    "items": [],
+    "total_amount": {
+      "value": "800639",
+      "confidence": 0.52,
+      "flagged": true
+    },
+    "ocr_confidence": 0.682,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005200938.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PERNIAGAAN ZHENG KUI",
+      "confidence": 0.86
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "956507",
+      "confidence": 0.51,
+      "flagged": true
+    },
+    "ocr_confidence": 0.651,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005230605.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PERO",
+      "confidence": 0.793
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "743717",
+      "confidence": 0.46,
+      "flagged": true
+    },
+    "ocr_confidence": 0.484,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005230616.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Gerbang ' Alaf  Restaurants Sdn Bhd",
+      "confidence": 0.836
+    },
+    "date": {
+      "value": "18/01/2018",
+      "confidence": 0.764
+    },
+    "items": [],
+    "total_amount": {
+      "value": "68",
+      "confidence": 0.869
+    },
+    "ocr_confidence": 0.681,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005230617.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Gerbang ATaf Restaurants Sdn Bhd",
+      "confidence": 0.841
+    },
+    "date": {
+      "value": "18/01/2018",
+      "confidence": 0.777
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.882
+    },
+    "ocr_confidence": 0.723,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005230621.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LANra;? Son Ghd",
+      "confidence": 0.527,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "807545",
+      "confidence": 0.368,
+      "flagged": true
+    },
+    "ocr_confidence": 0.178,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.53)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005230648.jpg",
+    "error": null,
+    "store_name": {
+      "value": "CROSS CHANNEL NEWWORK-SDN; BHDAL",
+      "confidence": 0.798
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "600288",
+      "confidence": 0.463,
+      "flagged": true
+    },
+    "ocr_confidence": 0.494,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005230657.jpg",
+    "error": null,
+    "store_name": {
+      "value": "CROSS CHANNEL NEJWORK SDN BHD",
+      "confidence": 0.815
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "230838",
+      "confidence": 0.477,
+      "flagged": true
+    },
+    "ocr_confidence": 0.539,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005230659.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@NTTEEARiSE SN EHD",
+      "confidence": 0.657,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "374057",
+      "confidence": 0.394,
+      "flagged": true
+    },
+    "ocr_confidence": 0.263,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005255805.jpg",
+    "error": null,
+    "store_name": {
+      "value": "{EuTAX",
+      "confidence": 0.416,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955720",
+      "confidence": 0.357,
+      "flagged": true
+    },
+    "ocr_confidence": 0.14,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.42)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005268200.jpg",
+    "error": null,
+    "store_name": {
+      "value": "EQATNAHD",
+      "confidence": 0.637,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "440170",
+      "confidence": 0.343,
+      "flagged": true
+    },
+    "ocr_confidence": 0.093,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.64)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.34)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005268262.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@Egltd4",
+      "confidence": 0.632,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "634040",
+      "confidence": 0.362,
+      "flagged": true
+    },
+    "ocr_confidence": 0.158,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.63)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005268275.jpg",
+    "error": null,
+    "store_name": {
+      "value": "iICRooiCn@DrV SW @D",
+      "confidence": 0.726
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "886294",
+      "confidence": 0.41,
+      "flagged": true
+    },
+    "ocr_confidence": 0.316,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005268400.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@ESIORAn HASSANBTSTRO",
+      "confidence": 0.721
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "281201",
+      "confidence": 0.405,
+      "flagged": true
+    },
+    "ocr_confidence": 0.301,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005268408.jpg",
+    "error": null,
+    "store_name": {
+      "value": "FawacBE kaiz7",
+      "confidence": 0.454,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "891654",
+      "confidence": 0.331,
+      "flagged": true
+    },
+    "ocr_confidence": 0.053,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.45)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.33)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005268472.jpg",
+    "error": null,
+    "store_name": {
+      "value": "asiamaRv'",
+      "confidence": 0.709
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "959867",
+      "confidence": 0.397,
+      "flagged": true
+    },
+    "ocr_confidence": 0.273,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005288570.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SECURE PARKING",
+      "confidence": 0.885
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "130088,169",
+      "confidence": 0.529,
+      "flagged": true
+    },
+    "ocr_confidence": 0.713,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005301659.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@Egltd4",
+      "confidence": 0.632,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "634040",
+      "confidence": 0.362,
+      "flagged": true
+    },
+    "ocr_confidence": 0.158,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.63)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005301661.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@TGHIROOWICNLLDRVISDN BID",
+      "confidence": 0.723
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "485172",
+      "confidence": 0.407,
+      "flagged": true
+    },
+    "ocr_confidence": 0.306,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005301666.jpg",
+    "error": null,
+    "store_name": {
+      "value": "iICRooiCn@DrV SW @D",
+      "confidence": 0.726
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "886294",
+      "confidence": 0.41,
+      "flagged": true
+    },
+    "ocr_confidence": 0.316,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005301667.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BHD",
+      "confidence": 0.721
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "869400",
+      "confidence": 0.406,
+      "flagged": true
+    },
+    "ocr_confidence": 0.304,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005303661.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@TGHIROOWICNLLDRVISDN BID",
+      "confidence": 0.723
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "485172",
+      "confidence": 0.407,
+      "flagged": true
+    },
+    "ocr_confidence": 0.306,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005306399.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Shell",
+      "confidence": 0.878
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [
+      {
+        "name": "Site",
+        "price": "1066",
+        "confidence": 0.795
+      }
+    ],
+    "total_amount": {
+      "value": "600000",
+      "confidence": 0.55,
+      "flagged": true
+    },
+    "ocr_confidence": 0.784,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.55)"
+    ]
+  },
+  {
+    "filename": "X51005337867.jpg",
+    "error": null,
+    "store_name": {
+      "value": "st /zk .",
+      "confidence": 0.872
+    },
+    "date": {
+      "value": "22 Mar 18",
+      "confidence": 0.764
+    },
+    "items": [
+      {
+        "name": "Tel : 03-4148",
+        "price": "1876",
+        "confidence": 0.764
+      }
+    ],
+    "total_amount": {
+      "value": "716269",
+      "confidence": 0.519,
+      "flagged": true
+    },
+    "ocr_confidence": 0.68,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)"
+    ]
+  },
+  {
+    "filename": "X51005337872.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Rx k .",
+      "confidence": 0.916
+    },
+    "date": {
+      "value": "06/03/2018",
+      "confidence": 0.797
+    },
+    "items": [],
+    "total_amount": {
+      "value": "390272",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.79,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005337877.jpg",
+    "error": null,
+    "store_name": {
+      "value": "UROKO JAPANESE CUISINE SDN BHD",
+      "confidence": 0.91
+    },
+    "date": {
+      "value": "20/03/2018",
+      "confidence": 0.797
+    },
+    "items": [],
+    "total_amount": {
+      "value": "838272",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.789,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361883.jpg",
+    "error": null,
+    "store_name": {
+      "value": "hewg stitdery",
+      "confidence": 0.666,
+      "flagged": true
+    },
+    "date": {
+      "value": "18/01/2018",
+      "confidence": 0.646,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "800403",
+      "confidence": 0.401,
+      "flagged": true
+    },
+    "ocr_confidence": 0.285,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.67)",
+      "LOW_CONFIDENCE:date(0.65)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361895.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Fu )L MINkmarri;",
+      "confidence": 0.733
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "310720",
+      "confidence": 0.415,
+      "flagged": true
+    },
+    "ocr_confidence": 0.332,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361897.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SEFANSQR dabW BHSAM",
+      "confidence": 0.578,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955504",
+      "confidence": 0.407,
+      "flagged": true
+    },
+    "ocr_confidence": 0.306,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.58)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361898.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TEQ HENG ITATIDNERY & BOdks",
+      "confidence": 0.734
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955665",
+      "confidence": 0.416,
+      "flagged": true
+    },
+    "ocr_confidence": 0.336,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361900.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TED HENG STUTIDNERY & bddks",
+      "confidence": 0.739
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955754",
+      "confidence": 0.419,
+      "flagged": true
+    },
+    "ocr_confidence": 0.348,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361906.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TEQ HENG sTatiqnerK & EQOKS",
+      "confidence": 0.759
+    },
+    "date": {
+      "value": "27/01/2018",
+      "confidence": 0.751
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955795",
+      "confidence": 0.506,
+      "flagged": true
+    },
+    "ocr_confidence": 0.637,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361907.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TEQ HENE STAtINERY & BddkS",
+      "confidence": 0.869
+    },
+    "date": {
+      "value": "12/02/2018",
+      "confidence": 0.762
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955758",
+      "confidence": 0.517,
+      "flagged": true
+    },
+    "ocr_confidence": 0.672,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361908.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TEQ heng STuTIINERY & Books",
+      "confidence": 0.799
+    },
+    "date": {
+      "value": "15/03/2018",
+      "confidence": 0.709
+    },
+    "items": [],
+    "total_amount": {
+      "value": "715356",
+      "confidence": 0.464,
+      "flagged": true
+    },
+    "ocr_confidence": 0.498,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361912.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TED HENG statideRS",
+      "confidence": 0.751
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "068721",
+      "confidence": 0.428,
+      "flagged": true
+    },
+    "ocr_confidence": 0.377,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361923.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Wuceiintol ednoad",
+      "confidence": 0.608,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "341243",
+      "confidence": 0.357,
+      "flagged": true
+    },
+    "ocr_confidence": 0.139,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.61)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361946.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PER ENDUSTRIANZGALAKONG",
+      "confidence": 0.738
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "461965",
+      "confidence": 0.423,
+      "flagged": true
+    },
+    "ocr_confidence": 0.36,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005361950.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TAFRK ERRELEY",
+      "confidence": 0.66,
+      "flagged": true
+    },
+    "date": {
+      "value": "34-41-18",
+      "confidence": 0.61,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "568882",
+      "confidence": 0.365,
+      "flagged": true
+    },
+    "ocr_confidence": 0.166,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.61)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005365179.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Khoo KARDWARE SDN BHD",
+      "confidence": 0.754
+    },
+    "date": {
+      "value": "01-03-18",
+      "confidence": 0.747
+    },
+    "items": [],
+    "total_amount": {
+      "value": "894102",
+      "confidence": 0.502,
+      "flagged": true
+    },
+    "ocr_confidence": 0.625,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005365187.jpg",
+    "error": null,
+    "store_name": {
+      "value": "F&p PHARMACY",
+      "confidence": 0.802
+    },
+    "date": {
+      "value": "02/03/2018",
+      "confidence": 0.852
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955789",
+      "confidence": 0.502,
+      "flagged": true
+    },
+    "ocr_confidence": 0.624,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433492.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Aozol8",
+      "confidence": 0.686,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "201838,24",
+      "confidence": 0.379,
+      "flagged": true
+    },
+    "ocr_confidence": 0.214,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433494.jpg",
+    "error": null,
+    "store_name": {
+      "value": "b-Iotal",
+      "confidence": 0.425,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "612692",
+      "confidence": 0.364,
+      "flagged": true
+    },
+    "ocr_confidence": 0.162,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.42)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433514.jpg",
+    "error": null,
+    "store_name": {
+      "value": "UNIHAKKA NTERNATIQNALSDN",
+      "confidence": 0.711
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "967323",
+      "confidence": 0.398,
+      "flagged": true
+    },
+    "ocr_confidence": 0.278,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433518.jpg",
+    "error": null,
+    "store_name": {
+      "value": "UNIHIAKKA",
+      "confidence": 0.696,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "307027",
+      "confidence": 0.387,
+      "flagged": true
+    },
+    "ocr_confidence": 0.24,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433522.jpg",
+    "error": null,
+    "store_name": {
+      "value": "\"YQMBAKKANE T TIQvAL SDNBHE",
+      "confidence": 0.689,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "200065",
+      "confidence": 0.382,
+      "flagged": true
+    },
+    "ocr_confidence": 0.222,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433533.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PERNIAGAAN ZHENG:HUI",
+      "confidence": 0.737
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955505",
+      "confidence": 0.418,
+      "flagged": true
+    },
+    "ocr_confidence": 0.343,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433538.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Abzo# (",
+      "confidence": 0.739
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "195584",
+      "confidence": 0.419,
+      "flagged": true
+    },
+    "ocr_confidence": 0.347,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433541.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tpgosv",
+      "confidence": 0.722
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "48,20",
+      "confidence": 0.756
+    },
+    "ocr_confidence": 0.304,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433543.jpg",
+    "error": null,
+    "store_name": {
+      "value": "#ozasz",
+      "confidence": 0.722
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "3820",
+      "confidence": 0.756
+    },
+    "ocr_confidence": 0.304,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433548.jpg",
+    "error": null,
+    "store_name": {
+      "value": "'PHSARS YEINt} JIN SENG",
+      "confidence": 0.665,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "594158",
+      "confidence": 0.399,
+      "flagged": true
+    },
+    "ocr_confidence": 0.281,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.67)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433552.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Aqenko",
+      "confidence": 0.678,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "822880",
+      "confidence": 0.373,
+      "flagged": true
+    },
+    "ocr_confidence": 0.194,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433553.jpg",
+    "error": null,
+    "store_name": {
+      "value": "K teon; Tebrau Cify;",
+      "confidence": 0.715
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "972872",
+      "confidence": 0.401,
+      "flagged": true
+    },
+    "ocr_confidence": 0.287,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005433556.jpg",
+    "error": null,
+    "store_name": {
+      "value": "YHM Aenn Tebrai City",
+      "confidence": 0.694,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "582732",
+      "confidence": 0.421,
+      "flagged": true
+    },
+    "ocr_confidence": 0.354,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005441398.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BREWERY",
+      "confidence": 0.877
+    },
+    "date": {
+      "value": "30/03/2018",
+      "confidence": 0.767
+    },
+    "items": [],
+    "total_amount": {
+      "value": "626292",
+      "confidence": 0.522,
+      "flagged": true
+    },
+    "ocr_confidence": 0.691,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005441401.jpg",
+    "error": null,
+    "store_name": {
+      "value": "THREE",
+      "confidence": 0.884
+    },
+    "date": {
+      "value": "12/03/2018",
+      "confidence": 0.773
+    },
+    "items": [],
+    "total_amount": {
+      "value": "886464",
+      "confidence": 0.528,
+      "flagged": true
+    },
+    "ocr_confidence": 0.71,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005441402.jpg",
+    "error": null,
+    "store_name": {
+      "value": "THREE",
+      "confidence": 0.901
+    },
+    "date": {
+      "value": "03/03/2018",
+      "confidence": 0.891
+    },
+    "items": [],
+    "total_amount": {
+      "value": "886454",
+      "confidence": 0.541,
+      "flagged": true
+    },
+    "ocr_confidence": 0.752,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005441407.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Geoventure",
+      "confidence": 0.923
+    },
+    "date": {
+      "value": "5/3/2018",
+      "confidence": 0.802
+    },
+    "items": [],
+    "total_amount": {
+      "value": "965857",
+      "confidence": 0.557,
+      "flagged": true
+    },
+    "ocr_confidence": 0.807,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005441408.jpg",
+    "error": null,
+    "store_name": {
+      "value": "& BISTRO own by CNU TRADING",
+      "confidence": 0.855
+    },
+    "date": {
+      "value": "10-03-2018",
+      "confidence": 0.788
+    },
+    "items": [],
+    "total_amount": {
+      "value": "504233",
+      "confidence": 0.543,
+      "flagged": true
+    },
+    "ocr_confidence": 0.758,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442322.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RBSTAURANT",
+      "confidence": 0.718
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [
+      {
+        "name": "Store;",
+        "price": "40217",
+        "confidence": 0.648
+      }
+    ],
+    "total_amount": {
+      "value": "436695",
+      "confidence": 0.403,
+      "flagged": true
+    },
+    "ocr_confidence": 0.294,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)"
+    ]
+  },
+  {
+    "filename": "X51005442327.jpg",
+    "error": null,
+    "store_name": {
+      "value": "DNIHAKKA (NTERNATIQNALSPNBHD:",
+      "confidence": 0.696,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "819558",
+      "confidence": 0.387,
+      "flagged": true
+    },
+    "ocr_confidence": 0.241,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442333.jpg",
+    "error": null,
+    "store_name": {
+      "value": "QNIRAKKA INTERNATIONAL,SDNBRD",
+      "confidence": 0.704
+    },
+    "date": {
+      "value": "27 Mar 2018",
+      "confidence": 0.638,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "46,90",
+      "confidence": 0.743
+    },
+    "ocr_confidence": 0.261,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.64)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442334.jpg",
+    "error": null,
+    "store_name": {
+      "value": "UNIHAKKAINTERNATIONAL SDN BHD",
+      "confidence": 0.707
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "8,20",
+      "confidence": 0.745
+    },
+    "ocr_confidence": 0.268,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442338.jpg",
+    "error": null,
+    "store_name": {
+      "value": "'ASAESNIMI",
+      "confidence": 0.595,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "407045",
+      "confidence": 0.352,
+      "flagged": true
+    },
+    "ocr_confidence": 0.122,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.59)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.35)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442341.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTAURAME sL{u_ '1s7",
+      "confidence": 0.68,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "972128",
+      "confidence": 0.396,
+      "flagged": true
+    },
+    "ocr_confidence": 0.271,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442343.jpg",
+    "error": null,
+    "store_name": {
+      "value": "YONG TAT:",
+      "confidence": 0.726
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "500035",
+      "confidence": 0.409,
+      "flagged": true
+    },
+    "ocr_confidence": 0.314,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442344.jpg",
+    "error": null,
+    "store_name": {
+      "value": "\"HARQWASE TRADING",
+      "confidence": 0.724
+    },
+    "date": {
+      "value": "42.49.00",
+      "confidence": 0.658,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "349036",
+      "confidence": 0.413,
+      "flagged": true
+    },
+    "ocr_confidence": 0.325,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.66)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442346.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PERNIAGAANZHENG HQI",
+      "confidence": 0.731
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "01386,379",
+      "confidence": 0.413,
+      "flagged": true
+    },
+    "ocr_confidence": 0.327,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442361.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Morganllelte",
+      "confidence": 0.734
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "858936",
+      "confidence": 0.415,
+      "flagged": true
+    },
+    "ocr_confidence": 0.334,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442366.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Tilpie Slx Poinf Enterprise 886;",
+      "confidence": 0.727
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "767465",
+      "confidence": 0.423,
+      "flagged": true
+    },
+    "ocr_confidence": 0.358,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442375.jpg",
+    "error": null,
+    "store_name": {
+      "value": "linz Wz \"",
+      "confidence": 0.704
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "788732",
+      "confidence": 0.393,
+      "flagged": true
+    },
+    "ocr_confidence": 0.26,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442376.jpg",
+    "error": null,
+    "store_name": {
+      "value": "UNRAKKA'",
+      "confidence": 0.684,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "648804",
+      "confidence": 0.378,
+      "flagged": true
+    },
+    "ocr_confidence": 0.209,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442378.jpg",
+    "error": null,
+    "store_name": {
+      "value": "tls\"",
+      "confidence": 0.658,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "790312",
+      "confidence": 0.359,
+      "flagged": true
+    },
+    "ocr_confidence": 0.146,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442379.jpg",
+    "error": null,
+    "store_name": {
+      "value": "UNIHAKKA",
+      "confidence": 0.697,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "803240",
+      "confidence": 0.388,
+      "flagged": true
+    },
+    "ocr_confidence": 0.242,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442382.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Aozfi7",
+      "confidence": 0.701
+    },
+    "date": {
+      "value": "2018.47.35",
+      "confidence": 0.635,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "8,80",
+      "confidence": 0.74
+    },
+    "ocr_confidence": 0.252,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.64)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442383.jpg",
+    "error": null,
+    "store_name": {
+      "value": "CARREFOUR RESTAURANT:",
+      "confidence": 0.744
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "382281",
+      "confidence": 0.423,
+      "flagged": true
+    },
+    "ocr_confidence": 0.36,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442384.jpg",
+    "error": null,
+    "store_name": {
+      "value": "\"NHAKKA INJFRZOATIONAL SDN BHD:",
+      "confidence": 0.705
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "841200",
+      "confidence": 0.394,
+      "flagged": true
+    },
+    "ocr_confidence": 0.264,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442386.jpg",
+    "error": null,
+    "store_name": {
+      "value": "DNIHAKKA INTERNATIOMAL =",
+      "confidence": 0.693,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "628804",
+      "confidence": 0.385,
+      "flagged": true
+    },
+    "ocr_confidence": 0.233,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442388.jpg",
+    "error": null,
+    "store_name": {
+      "value": "cONTENJO {(jij6j170*",
+      "confidence": 0.61,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "040000",
+      "confidence": 0.368,
+      "flagged": true
+    },
+    "ocr_confidence": 0.176,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.61)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442392.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Xac",
+      "confidence": 0.685,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "867383",
+      "confidence": 0.379,
+      "flagged": true
+    },
+    "ocr_confidence": 0.212,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442394.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Krein",
+      "confidence": 0.426,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "88",
+      "confidence": 0.741
+    },
+    "ocr_confidence": 0.254,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.43)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005442397.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Aozeg",
+      "confidence": 0.714
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "043262",
+      "confidence": 0.401,
+      "flagged": true
+    },
+    "ocr_confidence": 0.286,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005444033.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BIGC",
+      "confidence": 0.918
+    },
+    "date": {
+      "value": "12/03/18",
+      "confidence": 0.798
+    },
+    "items": [],
+    "total_amount": {
+      "value": "941376",
+      "confidence": 0.553,
+      "flagged": true
+    },
+    "ocr_confidence": 0.795,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005444037.jpg",
+    "error": null,
+    "store_name": {
+      "value": "pdos",
+      "confidence": 0.86
+    },
+    "date": {
+      "value": "28 Mar 18",
+      "confidence": 0.755
+    },
+    "items": [],
+    "total_amount": {
+      "value": "492992",
+      "confidence": 0.51,
+      "flagged": true
+    },
+    "ocr_confidence": 0.65,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005444040.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BENS INDEPENDENT GROCER SDN; BHD",
+      "confidence": 0.925
+    },
+    "date": {
+      "value": "09/03/18",
+      "confidence": 0.804
+    },
+    "items": [],
+    "total_amount": {
+      "value": "941376",
+      "confidence": 0.559,
+      "flagged": true
+    },
+    "ocr_confidence": 0.812,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005444041.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BIC",
+      "confidence": 0.923
+    },
+    "date": {
+      "value": "08/03/18",
+      "confidence": 0.802
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955730",
+      "confidence": 0.557,
+      "flagged": true
+    },
+    "ocr_confidence": 0.807,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005444044.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TARAN  BERKELEY",
+      "confidence": 0.74
+    },
+    "date": {
+      "value": "10-03-18",
+      "confidence": 0.741
+    },
+    "items": [],
+    "total_amount": {
+      "value": "747712",
+      "confidence": 0.496,
+      "flagged": true
+    },
+    "ocr_confidence": 0.604,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005444045.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Lot P.T;",
+      "confidence": 0.761
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "589547",
+      "confidence": 0.436,
+      "flagged": true
+    },
+    "ocr_confidence": 0.403,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.44)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005444046.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Desa Pandan; Off kampong Pandan;",
+      "confidence": 0.82
+    },
+    "date": {
+      "value": "25/03/18",
+      "confidence": 0.797
+    },
+    "items": [],
+    "total_amount": {
+      "value": "943424",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.79,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447832.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PETRODELI ENTERPRISE",
+      "confidence": 0.87
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [
+      {
+        "name": "10886",
+        "price": "09",
+        "confidence": 0.762
+      }
+    ],
+    "total_amount": {
+      "value": "600001",
+      "confidence": 0.517,
+      "flagged": true
+    },
+    "ocr_confidence": 0.675,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.52)"
+    ]
+  },
+  {
+    "filename": "X51005447833.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SUn Wong Kut SDN BHD",
+      "confidence": 0.878
+    },
+    "date": {
+      "value": "21/02/18",
+      "confidence": 0.768
+    },
+    "items": [],
+    "total_amount": {
+      "value": "922134",
+      "confidence": 0.523,
+      "flagged": true
+    },
+    "ocr_confidence": 0.695,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447839.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTAURANT  J IAWE |",
+      "confidence": 0.909
+    },
+    "date": {
+      "value": "9/3/2018",
+      "confidence": 0.792
+    },
+    "items": [],
+    "total_amount": {
+      "value": "57000",
+      "confidence": 0.547,
+      "flagged": true
+    },
+    "ocr_confidence": 0.774,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447840.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR",
+      "confidence": 0.913
+    },
+    "date": {
+      "value": "14/03/2018",
+      "confidence": 0.795
+    },
+    "items": [],
+    "total_amount": {
+      "value": "0",
+      "confidence": 0.9
+    },
+    "ocr_confidence": 0.782,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447841.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR:",
+      "confidence": 0.897
+    },
+    "date": {
+      "value": "09/03/2018",
+      "confidence": 0.783
+    },
+    "items": [],
+    "total_amount": {
+      "value": "4,00",
+      "confidence": 0.888
+    },
+    "ocr_confidence": 0.743,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447842.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PASARAYABORONG PiNTAR",
+      "confidence": 0.896
+    },
+    "date": {
+      "value": "14/03/2018",
+      "confidence": 0.782
+    },
+    "items": [],
+    "total_amount": {
+      "value": "0",
+      "confidence": 0.887
+    },
+    "ocr_confidence": 0.741,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447844.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTAURANT",
+      "confidence": 0.894
+    },
+    "date": {
+      "value": "23/2/2018",
+      "confidence": 0.78
+    },
+    "items": [],
+    "total_amount": {
+      "value": "57000",
+      "confidence": 0.535,
+      "flagged": true
+    },
+    "ocr_confidence": 0.735,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447848.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LIAN CHI PU TIAN VEGETARIAN",
+      "confidence": 0.936
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "416576",
+      "confidence": 0.567,
+      "flagged": true
+    },
+    "ocr_confidence": 0.839,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447850.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR",
+      "confidence": 0.928
+    },
+    "date": {
+      "value": "04/03/2018",
+      "confidence": 0.806
+    },
+    "items": [],
+    "total_amount": {
+      "value": "1.00",
+      "confidence": 0.911
+    },
+    "ocr_confidence": 0.821,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447851.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR",
+      "confidence": 0.914
+    },
+    "date": {
+      "value": "30/01/2018",
+      "confidence": 0.795
+    },
+    "items": [],
+    "total_amount": {
+      "value": "549884",
+      "confidence": 0.55,
+      "flagged": true
+    },
+    "ocr_confidence": 0.784,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447852.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TAHAK BERKELEY",
+      "confidence": 0.74
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "747712",
+      "confidence": 0.425,
+      "flagged": true
+    },
+    "ocr_confidence": 0.366,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447853.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TAMAN  BERKELEY",
+      "confidence": 0.66,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "747712",
+      "confidence": 0.365,
+      "flagged": true
+    },
+    "ocr_confidence": 0.166,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447859.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR",
+      "confidence": 0.885
+    },
+    "date": {
+      "value": "14/02/2018",
+      "confidence": 0.774
+    },
+    "items": [],
+    "total_amount": {
+      "value": "1,00",
+      "confidence": 0.879
+    },
+    "ocr_confidence": 0.712,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447860.jpg",
+    "error": null,
+    "store_name": {
+      "value": "JLN JEJAKA , TAMAN  HALURI",
+      "confidence": 0.835
+    },
+    "date": {
+      "value": "19/02/2018",
+      "confidence": 0.741
+    },
+    "items": [],
+    "total_amount": {
+      "value": "731878",
+      "confidence": 0.496,
+      "flagged": true
+    },
+    "ocr_confidence": 0.602,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005447861.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPULAR_",
+      "confidence": 0.826
+    },
+    "date": {
+      "value": "01/03/18",
+      "confidence": 0.729
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992000",
+      "confidence": 0.484,
+      "flagged": true
+    },
+    "ocr_confidence": 0.564,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005453729.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LAN HING STATIONERY SDN BHD",
+      "confidence": 0.887
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "318030",
+      "confidence": 0.53,
+      "flagged": true
+    },
+    "ocr_confidence": 0.717,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005453801.jpg",
+    "error": null,
+    "store_name": {
+      "value": "C handicreft & TailoriNG",
+      "confidence": 0.74
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "948532",
+      "confidence": 0.456,
+      "flagged": true
+    },
+    "ocr_confidence": 0.471,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005453802.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Czxjzh)",
+      "confidence": 0.879
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "324404",
+      "confidence": 0.525,
+      "flagged": true
+    },
+    "ocr_confidence": 0.698,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005453804.jpg",
+    "error": null,
+    "store_name": {
+      "value": "IANHING STATIONERY SDN BHD",
+      "confidence": 0.868
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "69",
+      "confidence": 0.866
+    },
+    "ocr_confidence": 0.67,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568827.jpg",
+    "error": null,
+    "store_name": {
+      "value": "\"Banh MMi CaFE",
+      "confidence": 0.783
+    },
+    "date": {
+      "value": "29-10-2017",
+      "confidence": 0.698,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "700288",
+      "confidence": 0.453,
+      "flagged": true
+    },
+    "ocr_confidence": 0.459,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.70)",
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568829.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WHAI DDELICIOUS RESTAURANT",
+      "confidence": 0.846
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "47100",
+      "confidence": 0.499,
+      "flagged": true
+    },
+    "ocr_confidence": 0.614,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568855.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPULar   Book",
+      "confidence": 0.767
+    },
+    "date": {
+      "value": "31/08/20",
+      "confidence": 0.685,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "913224",
+      "confidence": 0.44,
+      "flagged": true
+    },
+    "ocr_confidence": 0.417,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.69)",
+      "LOW_CONFIDENCE:total_amount(0.44)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568866.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POFUEAR",
+      "confidence": 0.731
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "913224",
+      "confidence": 0.414,
+      "flagged": true
+    },
+    "ocr_confidence": 0.329,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568880.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MR,D",
+      "confidence": 0.867
+    },
+    "date": {
+      "value": "5/40/160",
+      "confidence": 0.761
+    },
+    "items": [],
+    "total_amount": {
+      "value": "906786",
+      "confidence": 0.516,
+      "flagged": true
+    },
+    "ocr_confidence": 0.669,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568881.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HON HWA HARDWARE TRADING",
+      "confidence": 0.827
+    },
+    "date": {
+      "value": "10.20.37",
+      "confidence": 0.73
+    },
+    "items": [],
+    "total_amount": {
+      "value": "252203",
+      "confidence": 0.485,
+      "flagged": true
+    },
+    "ocr_confidence": 0.568,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568884.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MR:_",
+      "confidence": 0.85
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "902119",
+      "confidence": 0.502,
+      "flagged": true
+    },
+    "ocr_confidence": 0.625,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568885.jpg",
+    "error": null,
+    "store_name": {
+      "value": "JbeeeemLiext Gdi Bhp",
+      "confidence": 0.66,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "806097",
+      "confidence": 0.36,
+      "flagged": true
+    },
+    "ocr_confidence": 0.151,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568887.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KQn KWA KARDWARETRADING",
+      "confidence": 0.765
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "252203",
+      "confidence": 0.439,
+      "flagged": true
+    },
+    "ocr_confidence": 0.412,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.44)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568889.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KON KWA KARDWARE TRADING",
+      "confidence": 0.896
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "220362",
+      "confidence": 0.537,
+      "flagged": true
+    },
+    "ocr_confidence": 0.741,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568890.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TarDWARIE TRADIN",
+      "confidence": 0.703
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "252703",
+      "confidence": 0.428,
+      "flagged": true
+    },
+    "ocr_confidence": 0.378,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568891.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KON KWA KARDWARE TRADING",
+      "confidence": 0.885
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "220352",
+      "confidence": 0.529,
+      "flagged": true
+    },
+    "ocr_confidence": 0.713,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568892.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ENERGREEN LicXT GpM BHD",
+      "confidence": 0.691,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "925247",
+      "confidence": 0.383,
+      "flagged": true
+    },
+    "ocr_confidence": 0.228,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568894.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WWW,vivopac Com",
+      "confidence": 0.64,
+      "flagged": true
+    },
+    "date": {
+      "value": "17/01/2017",
+      "confidence": 0.77
+    },
+    "items": [],
+    "total_amount": {
+      "value": "913105",
+      "confidence": 0.525,
+      "flagged": true
+    },
+    "ocr_confidence": 0.701,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.64)",
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568895.jpg",
+    "error": null,
+    "store_name": {
+      "value": "wvivopac; com:",
+      "confidence": 0.723
+    },
+    "date": {
+      "value": "13/09/2017",
+      "confidence": 0.796
+    },
+    "items": [],
+    "total_amount": {
+      "value": "913343",
+      "confidence": 0.551,
+      "flagged": true
+    },
+    "ocr_confidence": 0.787,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568898.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WWAVivopac:com",
+      "confidence": 0.677,
+      "flagged": true
+    },
+    "date": {
+      "value": "30/05/2017",
+      "confidence": 0.762
+    },
+    "items": [],
+    "total_amount": {
+      "value": "913343",
+      "confidence": 0.517,
+      "flagged": true
+    },
+    "ocr_confidence": 0.672,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568899.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MR ,",
+      "confidence": 0.851
+    },
+    "date": {
+      "value": "18-10-17",
+      "confidence": 0.748
+    },
+    "items": [],
+    "total_amount": {
+      "value": "886528",
+      "confidence": 0.503,
+      "flagged": true
+    },
+    "ocr_confidence": 0.627,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568900.jpg",
+    "error": null,
+    "store_name": {
+      "value": "AEDQVnAN",
+      "confidence": 0.719
+    },
+    "date": {
+      "value": "28-12-17",
+      "confidence": 0.685,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "886528",
+      "confidence": 0.44,
+      "flagged": true
+    },
+    "ocr_confidence": 0.416,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.69)",
+      "LOW_CONFIDENCE:total_amount(0.44)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568911.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MR ,",
+      "confidence": 0.88
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.875
+    },
+    "ocr_confidence": 0.699,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568913.jpg",
+    "error": null,
+    "store_name": {
+      "value": "IKANO HAndeL_ SDN BHD",
+      "confidence": 0.821
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "538100",
+      "confidence": 0.481,
+      "flagged": true
+    },
+    "ocr_confidence": 0.552,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005568914.jpg",
+    "error": null,
+    "store_name": {
+      "value": "IRANO: Ha_deL  SDN 'BHD",
+      "confidence": 0.465,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.815
+    },
+    "ocr_confidence": 0.501,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.47)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005577191.jpg",
+    "error": null,
+    "store_name": {
+      "value": "EAGLE",
+      "confidence": 0.776
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "974384",
+      "confidence": 0.447,
+      "flagged": true
+    },
+    "ocr_confidence": 0.44,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005577192.jpg",
+    "error": null,
+    "store_name": {
+      "value": "EAGLE",
+      "confidence": 0.756
+    },
+    "date": {
+      "value": "04/12/2017",
+      "confidence": 0.787
+    },
+    "items": [],
+    "total_amount": {
+      "value": "894331",
+      "confidence": 0.437,
+      "flagged": true
+    },
+    "ocr_confidence": 0.405,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.44)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005582745.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MODERN",
+      "confidence": 0.781
+    },
+    "date": {
+      "value": "04/12/2016",
+      "confidence": 0.801
+    },
+    "items": [
+      {
+        "name": "S/N4",
+        "price": "031274",
+        "confidence": 0.696
+      }
+    ],
+    "total_amount": {
+      "value": "67",
+      "confidence": 0.801
+    },
+    "ocr_confidence": 0.453,
+    "flags": []
+  },
+  {
+    "filename": "X51005587254.jpg",
+    "error": null,
+    "store_name": {
+      "value": "wdwgarTISrI (udA",
+      "confidence": 0.661,
+      "flagged": true
+    },
+    "date": {
+      "value": "13/03/2017",
+      "confidence": 0.642,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "728515",
+      "confidence": 0.397,
+      "flagged": true
+    },
+    "ocr_confidence": 0.273,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.64)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005587261.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@CHopyew@AM",
+      "confidence": 0.715
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "936144",
+      "confidence": 0.401,
+      "flagged": true
+    },
+    "ocr_confidence": 0.287,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005587267.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Ibon",
+      "confidence": 0.673,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "728515",
+      "confidence": 0.37,
+      "flagged": true
+    },
+    "ocr_confidence": 0.182,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.67)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605284.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ADVANCO COMPANY",
+      "confidence": 0.931
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "725186",
+      "confidence": 0.564,
+      "flagged": true
+    },
+    "ocr_confidence": 0.829,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605285.jpg",
+    "error": null,
+    "store_name": {
+      "value": "AEON C0 , (M) BHd __",
+      "confidence": 0.864
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "497295",
+      "confidence": 0.524,
+      "flagged": true
+    },
+    "ocr_confidence": 0.696,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605286.jpg",
+    "error": null,
+    "store_name": {
+      "value": "JLN JEJAKA,   TAMAN  MALURI",
+      "confidence": 0.857
+    },
+    "date": {
+      "value": "09/02/2018",
+      "confidence": 0.757
+    },
+    "items": [],
+    "total_amount": {
+      "value": "394688",
+      "confidence": 0.512,
+      "flagged": true
+    },
+    "ocr_confidence": 0.656,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605287.jpg",
+    "error": null,
+    "store_name": {
+      "value": "AEoN Ce ,",
+      "confidence": 0.829
+    },
+    "date": {
+      "value": "14/03/2018",
+      "confidence": 0.732
+    },
+    "items": [],
+    "total_amount": {
+      "value": "394688",
+      "confidence": 0.487,
+      "flagged": true
+    },
+    "ocr_confidence": 0.573,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605295.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Lot QO]_",
+      "confidence": 0.701
+    },
+    "date": {
+      "value": "22/03/18",
+      "confidence": 0.707
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955550",
+      "confidence": 0.462,
+      "flagged": true
+    },
+    "ocr_confidence": 0.491,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605332.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPULAR",
+      "confidence": 0.858
+    },
+    "date": {
+      "value": "14/03/18",
+      "confidence": 0.753
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992000",
+      "confidence": 0.508,
+      "flagged": true
+    },
+    "ocr_confidence": 0.644,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605333.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPULAR BppK",
+      "confidence": 0.787
+    },
+    "date": {
+      "value": "07/01/18",
+      "confidence": 0.7
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992000",
+      "confidence": 0.455,
+      "flagged": true
+    },
+    "ocr_confidence": 0.467,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605334.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPULAR  Book",
+      "confidence": 0.867
+    },
+    "date": {
+      "value": "29/03/18",
+      "confidence": 0.76
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992000",
+      "confidence": 0.515,
+      "flagged": true
+    },
+    "ocr_confidence": 0.667,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005605335.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPULAR",
+      "confidence": 0.831
+    },
+    "date": {
+      "value": "12/01/18",
+      "confidence": 0.733
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992000",
+      "confidence": 0.488,
+      "flagged": true
+    },
+    "ocr_confidence": 0.578,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005621482.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PrEMO",
+      "confidence": 0.878
+    },
+    "date": {
+      "value": "20/03/2018",
+      "confidence": 0.769
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6.00",
+      "confidence": 0.874
+    },
+    "ocr_confidence": 0.695,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663272.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@ahwhariWarB Gw@Hd",
+      "confidence": 0.626,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "898048",
+      "confidence": 0.371,
+      "flagged": true
+    },
+    "ocr_confidence": 0.185,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.63)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663273.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIAURERNAGNANGWKEB",
+      "confidence": 0.734
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "814091",
+      "confidence": 0.415,
+      "flagged": true
+    },
+    "ocr_confidence": 0.334,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663274.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LIM SENG THO HARDWARE TRADING",
+      "confidence": 0.916
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "075968",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.79,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663276.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SUARIKATPERN@An@WkEB",
+      "confidence": 0.68,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "872100",
+      "confidence": 0.411,
+      "flagged": true
+    },
+    "ocr_confidence": 0.321,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663277.jpg",
+    "error": null,
+    "store_name": {
+      "value": "We@l",
+      "confidence": 0.738
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "402102",
+      "confidence": 0.418,
+      "flagged": true
+    },
+    "ocr_confidence": 0.344,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663278.jpg",
+    "error": null,
+    "store_name": {
+      "value": "dKENo-edelsdlicelds,",
+      "confidence": 0.643,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "957000",
+      "confidence": 0.383,
+      "flagged": true
+    },
+    "ocr_confidence": 0.227,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.64)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663279.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.925
+    },
+    "date": {
+      "value": "28/12/2017",
+      "confidence": 0.914
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.564,
+      "flagged": true
+    },
+    "ocr_confidence": 0.828,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663280.jpg",
+    "error": null,
+    "store_name": {
+      "value": "#Redeip8",
+      "confidence": 0.39,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "806984",
+      "confidence": 0.357,
+      "flagged": true
+    },
+    "ocr_confidence": 0.139,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.39)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.36)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663293.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SVEED (FORESUCHFE",
+      "confidence": 0.712
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "809408",
+      "confidence": 0.399,
+      "flagged": true
+    },
+    "ocr_confidence": 0.279,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663297.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BEYOND BROTHERS HARDWARE",
+      "confidence": 0.908
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "974272",
+      "confidence": 0.546,
+      "flagged": true
+    },
+    "ocr_confidence": 0.77,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663298.jpg",
+    "error": null,
+    "store_name": {
+      "value": "AL MENDIS-THE MINES",
+      "confidence": 0.907
+    },
+    "date": {
+      "value": "21-03-2018",
+      "confidence": 0.791
+    },
+    "items": [],
+    "total_amount": {
+      "value": "803014",
+      "confidence": 0.546,
+      "flagged": true
+    },
+    "ocr_confidence": 0.769,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663300.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LIM SENG THO HARDWARE TRADING",
+      "confidence": 0.904
+    },
+    "date": {
+      "value": "02/02/2018",
+      "confidence": 0.788
+    },
+    "items": [],
+    "total_amount": {
+      "value": "75968",
+      "confidence": 0.543,
+      "flagged": true
+    },
+    "ocr_confidence": 0.761,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663301.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LIM SENG THO HARDWARE TRADING",
+      "confidence": 0.905
+    },
+    "date": {
+      "value": "03/02/2018",
+      "confidence": 0.793
+    },
+    "items": [],
+    "total_amount": {
+      "value": "075968",
+      "confidence": 0.548,
+      "flagged": true
+    },
+    "ocr_confidence": 0.777,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663307.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TAMAN SRI RAMPAI ,",
+      "confidence": 0.829
+    },
+    "date": {
+      "value": "09/02/2018",
+      "confidence": 0.808
+    },
+    "items": [],
+    "total_amount": {
+      "value": "721536",
+      "confidence": 0.563,
+      "flagged": true
+    },
+    "ocr_confidence": 0.826,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663309.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HARDWARE",
+      "confidence": 0.784
+    },
+    "date": {
+      "value": "01/02/2018",
+      "confidence": 0.808
+    },
+    "items": [],
+    "total_amount": {
+      "value": "800044",
+      "confidence": 0.458,
+      "flagged": true
+    },
+    "ocr_confidence": 0.476,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663310.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LIM SENG THo HARDWARE TRADING",
+      "confidence": 0.798
+    },
+    "date": {
+      "value": "09/02/2018",
+      "confidence": 0.78
+    },
+    "items": [],
+    "total_amount": {
+      "value": "075968",
+      "confidence": 0.535,
+      "flagged": true
+    },
+    "ocr_confidence": 0.734,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663311.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LIM SENG THO HARDWARE TRADING",
+      "confidence": 0.915
+    },
+    "date": {
+      "value": "09/02/2018",
+      "confidence": 0.797
+    },
+    "items": [],
+    "total_amount": {
+      "value": "075968",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.789,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663317.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Lim SENG THO HARDWARE TRADING",
+      "confidence": 0.853
+    },
+    "date": {
+      "value": "29/12/2017",
+      "confidence": 0.786
+    },
+    "items": [],
+    "total_amount": {
+      "value": "3",
+      "confidence": 0.891
+    },
+    "ocr_confidence": 0.752,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663323.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KOH",
+      "confidence": 0.779
+    },
+    "date": {
+      "value": "04/12/2017",
+      "confidence": 0.799
+    },
+    "items": [],
+    "total_amount": {
+      "value": "765094",
+      "confidence": 0.449,
+      "flagged": true
+    },
+    "ocr_confidence": 0.448,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005663324.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.945
+    },
+    "date": {
+      "value": "28/12/2017",
+      "confidence": 0.819
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.574,
+      "flagged": true
+    },
+    "ocr_confidence": 0.863,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005675095.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Qulaiias",
+      "confidence": 0.664,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "412403",
+      "confidence": 0.39,
+      "flagged": true
+    },
+    "ocr_confidence": 0.25,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005675099.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Super Terminal San Bhd",
+      "confidence": 0.92
+    },
+    "date": {
+      "value": "20/01/2018",
+      "confidence": 0.8
+    },
+    "items": [],
+    "total_amount": {
+      "value": "625122",
+      "confidence": 0.555,
+      "flagged": true
+    },
+    "ocr_confidence": 0.8,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005675103.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.931
+    },
+    "date": {
+      "value": "04/01/2018",
+      "confidence": 0.918
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.568,
+      "flagged": true
+    },
+    "ocr_confidence": 0.842,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005675104.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.923
+    },
+    "date": {
+      "value": "25/01/2018",
+      "confidence": 0.807
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.562,
+      "flagged": true
+    },
+    "ocr_confidence": 0.823,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005675914.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@yondeR@uerBIARDWARE",
+      "confidence": 0.67,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "974272",
+      "confidence": 0.404,
+      "flagged": true
+    },
+    "ocr_confidence": 0.296,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.67)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676534.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.929
+    },
+    "date": {
+      "value": "03/01/2018",
+      "confidence": 0.916
+    },
+    "items": [],
+    "total_amount": {
+      "value": "573920",
+      "confidence": 0.566,
+      "flagged": true
+    },
+    "ocr_confidence": 0.836,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676535.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.946
+    },
+    "date": {
+      "value": "30/12/2017",
+      "confidence": 0.925
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.575,
+      "flagged": true
+    },
+    "ocr_confidence": 0.865,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676536.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.926
+    },
+    "date": {
+      "value": "02/01/2018",
+      "confidence": 0.914
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.564,
+      "flagged": true
+    },
+    "ocr_confidence": 0.831,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676537.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.928
+    },
+    "date": {
+      "value": "03/01/2018",
+      "confidence": 0.911
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.561,
+      "flagged": true
+    },
+    "ocr_confidence": 0.82,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676538.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.943
+    },
+    "date": {
+      "value": "04/01/2018",
+      "confidence": 0.922
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.572,
+      "flagged": true
+    },
+    "ocr_confidence": 0.857,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676539.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.917
+    },
+    "date": {
+      "value": "10/01/2018",
+      "confidence": 0.797
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.792,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676540.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.93
+    },
+    "date": {
+      "value": "11/01/2018",
+      "confidence": 0.807
+    },
+    "items": [],
+    "total_amount": {
+      "value": "573920",
+      "confidence": 0.562,
+      "flagged": true
+    },
+    "ocr_confidence": 0.825,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676541.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.929
+    },
+    "date": {
+      "value": "03/01/2018",
+      "confidence": 0.916
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.566,
+      "flagged": true
+    },
+    "ocr_confidence": 0.837,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676542.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.932
+    },
+    "date": {
+      "value": "29/12/2017",
+      "confidence": 0.813
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.568,
+      "flagged": true
+    },
+    "ocr_confidence": 0.844,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676543.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.928
+    },
+    "date": {
+      "value": "02/01/2018",
+      "confidence": 0.911
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.561,
+      "flagged": true
+    },
+    "ocr_confidence": 0.821,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676544.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.941
+    },
+    "date": {
+      "value": "02/01/2018",
+      "confidence": 0.921
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.571,
+      "flagged": true
+    },
+    "ocr_confidence": 0.853,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676545.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HrT",
+      "confidence": 0.919
+    },
+    "date": {
+      "value": "13/01/2018",
+      "confidence": 0.799
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.554,
+      "flagged": true
+    },
+    "ocr_confidence": 0.798,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676546.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.936
+    },
+    "date": {
+      "value": "11/01/2018",
+      "confidence": 0.812
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.567,
+      "flagged": true
+    },
+    "ocr_confidence": 0.84,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676547.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.914
+    },
+    "date": {
+      "value": "13/01/2018",
+      "confidence": 0.8
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.555,
+      "flagged": true
+    },
+    "ocr_confidence": 0.8,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676548.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.873
+    },
+    "date": {
+      "value": "15/01/2018",
+      "confidence": 0.805
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.56,
+      "flagged": true
+    },
+    "ocr_confidence": 0.817,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005676549.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.91
+    },
+    "date": {
+      "value": "02/01/2018",
+      "confidence": 0.902
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.79,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677327.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.908
+    },
+    "date": {
+      "value": "01/02/2018",
+      "confidence": 0.796
+    },
+    "items": [
+      {
+        "name": "Time:",
+        "price": "09.38.00",
+        "confidence": 0.796
+      }
+    ],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.551,
+      "flagged": true
+    },
+    "ocr_confidence": 0.786,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)"
+    ]
+  },
+  {
+    "filename": "X51005677328.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.928
+    },
+    "date": {
+      "value": "12/02/2018",
+      "confidence": 0.806
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.561,
+      "flagged": true
+    },
+    "ocr_confidence": 0.821,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677329.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.913
+    },
+    "date": {
+      "value": "12/02/2018",
+      "confidence": 0.795
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.55,
+      "flagged": true
+    },
+    "ocr_confidence": 0.783,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677331.jpg",
+    "error": null,
+    "store_name": {
+      "value": "L*n%;",
+      "confidence": 0.926
+    },
+    "date": {
+      "value": "03/02/2018",
+      "confidence": 0.804
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.559,
+      "flagged": true
+    },
+    "ocr_confidence": 0.814,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677332.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.908
+    },
+    "date": {
+      "value": "12/01/2018",
+      "confidence": 0.896
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.546,
+      "flagged": true
+    },
+    "ocr_confidence": 0.769,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677333.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.922
+    },
+    "date": {
+      "value": "31/01/2018",
+      "confidence": 0.806
+    },
+    "items": [],
+    "total_amount": {
+      "value": "573920",
+      "confidence": 0.561,
+      "flagged": true
+    },
+    "ocr_confidence": 0.821,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677334.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.938
+    },
+    "date": {
+      "value": "31/01/2018",
+      "confidence": 0.919
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.569,
+      "flagged": true
+    },
+    "ocr_confidence": 0.845,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677335.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.93
+    },
+    "date": {
+      "value": "24/01/2018",
+      "confidence": 0.913
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.563,
+      "flagged": true
+    },
+    "ocr_confidence": 0.826,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677336.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.945
+    },
+    "date": {
+      "value": "27/01/2018",
+      "confidence": 0.924
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.574,
+      "flagged": true
+    },
+    "ocr_confidence": 0.862,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677337.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.934
+    },
+    "date": {
+      "value": "16.30.00",
+      "confidence": 0.815
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673920",
+      "confidence": 0.57,
+      "flagged": true
+    },
+    "ocr_confidence": 0.851,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.57)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005677339.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BEYOND BROTHERS HARDWARE",
+      "confidence": 0.856
+    },
+    "date": {
+      "value": "05/02/2018",
+      "confidence": 0.857
+    },
+    "items": [],
+    "total_amount": {
+      "value": "8",
+      "confidence": 0.857
+    },
+    "ocr_confidence": 0.641,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005684949.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WESTERN",
+      "confidence": 0.929
+    },
+    "date": {
+      "value": "26-02-2018",
+      "confidence": 0.806
+    },
+    "items": [],
+    "total_amount": {
+      "value": "318020",
+      "confidence": 0.561,
+      "flagged": true
+    },
+    "ocr_confidence": 0.821,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005685355.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN IBRAHIM MAJU SB",
+      "confidence": 0.894
+    },
+    "date": {
+      "value": "19/03/2018",
+      "confidence": 0.781
+    },
+    "items": [],
+    "total_amount": {
+      "value": "873426",
+      "confidence": 0.536,
+      "flagged": true
+    },
+    "ocr_confidence": 0.736,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005685357.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Strfh",
+      "confidence": 0.841
+    },
+    "date": {
+      "value": "02/03/18",
+      "confidence": 0.767
+    },
+    "items": [],
+    "total_amount": {
+      "value": "910845",
+      "confidence": 0.522,
+      "flagged": true
+    },
+    "ocr_confidence": 0.692,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005705722.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ASOEECURICALIRADIG GDNEHDD",
+      "confidence": 0.721
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "618120",
+      "confidence": 0.406,
+      "flagged": true
+    },
+    "ocr_confidence": 0.302,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005705727.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEwAIBUKUNEWATHEERS",
+      "confidence": 0.755
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "819106",
+      "confidence": 0.431,
+      "flagged": true
+    },
+    "ocr_confidence": 0.387,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005705729.jpg",
+    "error": null,
+    "store_name": {
+      "value": "AsoLEcuricalWdn GdnBI@",
+      "confidence": 0.757
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "803512",
+      "confidence": 0.433,
+      "flagged": true
+    },
+    "ocr_confidence": 0.393,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005705760.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Cacln",
+      "confidence": 0.721
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "995549",
+      "confidence": 0.406,
+      "flagged": true
+    },
+    "ocr_confidence": 0.302,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005705784.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@EABUKuNEWaCHEIRG",
+      "confidence": 0.756
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "704482",
+      "confidence": 0.432,
+      "flagged": true
+    },
+    "ocr_confidence": 0.39,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005705804.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@S@€ecwricalwadnoGdNBH",
+      "confidence": 0.751
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "839009",
+      "confidence": 0.428,
+      "flagged": true
+    },
+    "ocr_confidence": 0.377,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005710963.jpg",
+    "error": null,
+    "store_name": {
+      "value": "TS TQOLS EarwwAne",
+      "confidence": 0.777
+    },
+    "date": {
+      "value": "21/03/2018",
+      "confidence": 0.798
+    },
+    "items": [],
+    "total_amount": {
+      "value": "761802",
+      "confidence": 0.448,
+      "flagged": true
+    },
+    "ocr_confidence": 0.444,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711401.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN SHENG",
+      "confidence": 0.91
+    },
+    "date": {
+      "value": "19-03-2018",
+      "confidence": 0.793
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.548,
+      "flagged": true
+    },
+    "ocr_confidence": 0.775,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711402.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTTARAN HAN  SHENG",
+      "confidence": 0.864
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "797520",
+      "confidence": 0.517,
+      "flagged": true
+    },
+    "ocr_confidence": 0.674,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711403.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN  SHENG",
+      "confidence": 0.906
+    },
+    "date": {
+      "value": "19-03-2018",
+      "confidence": 0.79
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.545,
+      "flagged": true
+    },
+    "ocr_confidence": 0.765,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711404.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN  SHENG",
+      "confidence": 0.902
+    },
+    "date": {
+      "value": "14-03-2018",
+      "confidence": 0.787
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.542,
+      "flagged": true
+    },
+    "ocr_confidence": 0.755,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711441.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN HAN SHENG",
+      "confidence": 0.899
+    },
+    "date": {
+      "value": "21-03-2018",
+      "confidence": 0.784
+    },
+    "items": [],
+    "total_amount": {
+      "value": "133678",
+      "confidence": 0.539,
+      "flagged": true
+    },
+    "ocr_confidence": 0.747,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711442.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN  SHENG",
+      "confidence": 0.917
+    },
+    "date": {
+      "value": "16-03-2018",
+      "confidence": 0.798
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.553,
+      "flagged": true
+    },
+    "ocr_confidence": 0.793,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711443.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN  SHENG",
+      "confidence": 0.907
+    },
+    "date": {
+      "value": "23-03-20",
+      "confidence": 0.79
+    },
+    "items": [],
+    "total_amount": {
+      "value": "133578",
+      "confidence": 0.545,
+      "flagged": true
+    },
+    "ocr_confidence": 0.767,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711444.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN SHENG",
+      "confidence": 0.908
+    },
+    "date": {
+      "value": "21-03-2018",
+      "confidence": 0.791
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.546,
+      "flagged": true
+    },
+    "ocr_confidence": 0.769,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711445.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN SHENG",
+      "confidence": 0.905
+    },
+    "date": {
+      "value": "12-03-2018",
+      "confidence": 0.789
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.544,
+      "flagged": true
+    },
+    "ocr_confidence": 0.764,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711446.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN SHENG",
+      "confidence": 0.916
+    },
+    "date": {
+      "value": "10-08-2018",
+      "confidence": 0.797
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.789,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711447.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTORAN WAN SHENG",
+      "confidence": 0.873
+    },
+    "date": {
+      "value": "14-03-2018",
+      "confidence": 0.765
+    },
+    "items": [],
+    "total_amount": {
+      "value": "787520",
+      "confidence": 0.52,
+      "flagged": true
+    },
+    "ocr_confidence": 0.682,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711449.jpg",
+    "error": null,
+    "store_name": {
+      "value": "RESTQRAN WAN SHENG",
+      "confidence": 0.873
+    },
+    "date": {
+      "value": "07-03-2018",
+      "confidence": 0.765
+    },
+    "items": [],
+    "total_amount": {
+      "value": "113357",
+      "confidence": 0.52,
+      "flagged": true
+    },
+    "ocr_confidence": 0.683,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711451.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WAn  SHEHG",
+      "confidence": 0.832
+    },
+    "date": {
+      "value": "05-03-2018",
+      "confidence": 0.734
+    },
+    "items": [],
+    "total_amount": {
+      "value": "182578",
+      "confidence": 0.489,
+      "flagged": true
+    },
+    "ocr_confidence": 0.579,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711452.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.891
+    },
+    "date": {
+      "value": "21/03/2018",
+      "confidence": 0.778
+    },
+    "items": [],
+    "total_amount": {
+      "value": "68",
+      "confidence": 0.883
+    },
+    "ocr_confidence": 0.727,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711453.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Gerbang Alaf Restaunants 'Sdn )Bhd_",
+      "confidence": 0.838
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "900059",
+      "confidence": 0.494,
+      "flagged": true
+    },
+    "ocr_confidence": 0.595,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711454.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PappaRich",
+      "confidence": 0.858
+    },
+    "date": {
+      "value": "24 Mar 18",
+      "confidence": 0.754
+    },
+    "items": [],
+    "total_amount": {
+      "value": "263370",
+      "confidence": 0.509,
+      "flagged": true
+    },
+    "ocr_confidence": 0.646,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005711456.jpg",
+    "error": null,
+    "store_name": {
+      "value": "#alliiX _",
+      "confidence": 0.881
+    },
+    "date": {
+      "value": "31-03-2018",
+      "confidence": 0.771
+    },
+    "items": [],
+    "total_amount": {
+      "value": "613777",
+      "confidence": 0.526,
+      "flagged": true
+    },
+    "ocr_confidence": 0.702,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005712017.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.873
+    },
+    "date": {
+      "value": "18/03/2018",
+      "confidence": 0.765
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.87
+    },
+    "ocr_confidence": 0.683,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005712021.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HAPPY SNACKSZEENTERPRISE",
+      "confidence": 0.865
+    },
+    "date": {
+      "value": "20/03/2018",
+      "confidence": 0.759
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955629",
+      "confidence": 0.514,
+      "flagged": true
+    },
+    "ocr_confidence": 0.662,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005712038.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SwC",
+      "confidence": 0.819
+    },
+    "date": {
+      "value": "28/03/2018",
+      "confidence": 0.724
+    },
+    "items": [],
+    "total_amount": {
+      "value": "882567",
+      "confidence": 0.479,
+      "flagged": true
+    },
+    "ocr_confidence": 0.547,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005712039.jpg",
+    "error": null,
+    "store_name": {
+      "value": "L TWO:FLORIST & HANDICRAFT",
+      "confidence": 0.897
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "321644",
+      "confidence": 0.538,
+      "flagged": true
+    },
+    "ocr_confidence": 0.743,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005715007.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KAISOn  FurNISHING SDN BKD",
+      "confidence": 0.777
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "975040",
+      "confidence": 0.484,
+      "flagged": true
+    },
+    "ocr_confidence": 0.563,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005715010.jpg",
+    "error": null,
+    "store_name": {
+      "value": "wotsons",
+      "confidence": 0.743
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992601",
+      "confidence": 0.458,
+      "flagged": true
+    },
+    "ocr_confidence": 0.477,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005715451.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPULAR",
+      "confidence": 0.742
+    },
+    "date": {
+      "value": "06/02/18",
+      "confidence": 0.666,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "776548",
+      "confidence": 0.421,
+      "flagged": true
+    },
+    "ocr_confidence": 0.355,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.67)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005715455.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ThlaN  BERVELEY",
+      "confidence": 0.57,
+      "flagged": true
+    },
+    "date": {
+      "value": "26-03-18",
+      "confidence": 0.646,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "567234",
+      "confidence": 0.401,
+      "flagged": true
+    },
+    "ocr_confidence": 0.286,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.57)",
+      "LOW_CONFIDENCE:date(0.65)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005715456.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KHE ELECTRICAL TRADING",
+      "confidence": 0.851
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "221031",
+      "confidence": 0.503,
+      "flagged": true
+    },
+    "ocr_confidence": 0.627,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005717526.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Qerbang Alaf Restaurants Sun Bhd",
+      "confidence": 0.843
+    },
+    "date": {
+      "value": "02/03/2018",
+      "confidence": 0.742
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.847
+    },
+    "ocr_confidence": 0.607,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719814.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KIKU",
+      "confidence": 0.9
+    },
+    "date": {
+      "value": "17/1/2018",
+      "confidence": 0.785
+    },
+    "items": [],
+    "total_amount": {
+      "value": "120215",
+      "confidence": 0.54,
+      "flagged": true
+    },
+    "ocr_confidence": 0.751,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719823.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HARNAC",
+      "confidence": 0.734
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "853647",
+      "confidence": 0.415,
+      "flagged": true
+    },
+    "ocr_confidence": 0.334,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719855.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ROCKU",
+      "confidence": 0.889
+    },
+    "date": {
+      "value": "79/02/2018",
+      "confidence": 0.777
+    },
+    "items": [],
+    "total_amount": {
+      "value": "271488",
+      "confidence": 0.532,
+      "flagged": true
+    },
+    "ocr_confidence": 0.722,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719856.jpg",
+    "error": null,
+    "store_name": {
+      "value": "parkin[ \" robi Ns",
+      "confidence": 0.875
+    },
+    "date": {
+      "value": "16/02/2018",
+      "confidence": 0.766
+    },
+    "items": [],
+    "total_amount": {
+      "value": "148416",
+      "confidence": 0.521,
+      "flagged": true
+    },
+    "ocr_confidence": 0.687,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719857.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Salon Du Chocolat",
+      "confidence": 0.87
+    },
+    "date": {
+      "value": "19-02-2018",
+      "confidence": 0.762
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955960",
+      "confidence": 0.517,
+      "flagged": true
+    },
+    "ocr_confidence": 0.674,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719862.jpg",
+    "error": null,
+    "store_name": {
+      "value": "\"SREGQ KArT",
+      "confidence": 0.653,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "827477",
+      "confidence": 0.354,
+      "flagged": true
+    },
+    "ocr_confidence": 0.131,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.65)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.35)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719863.jpg",
+    "error": null,
+    "store_name": {
+      "value": "EE hedNG  resTaWrANT",
+      "confidence": 0.729
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "252590",
+      "confidence": 0.412,
+      "flagged": true
+    },
+    "ocr_confidence": 0.322,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719864.jpg",
+    "error": null,
+    "store_name": {
+      "value": "FIN N CHEER (MALTRQ)",
+      "confidence": 0.808
+    },
+    "date": {
+      "value": "05/01/2018",
+      "confidence": 0.716
+    },
+    "items": [],
+    "total_amount": {
+      "value": "626125",
+      "confidence": 0.471,
+      "flagged": true
+    },
+    "ocr_confidence": 0.52,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.47)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719873.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Your order number is",
+      "confidence": 0.895
+    },
+    "date": {
+      "value": "15.46.09",
+      "confidence": 0.781
+    },
+    "items": [],
+    "total_amount": {
+      "value": "46",
+      "confidence": 0.886
+    },
+    "ocr_confidence": 0.738,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719874.jpg",
+    "error": null,
+    "store_name": {
+      "value": "IADEJE PRESTIGE SDN BHD",
+      "confidence": 0.811
+    },
+    "date": {
+      "value": "2018/02/22",
+      "confidence": 0.823
+    },
+    "items": [],
+    "total_amount": {
+      "value": "431744",
+      "confidence": 0.473,
+      "flagged": true
+    },
+    "ocr_confidence": 0.528,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.47)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719882.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Lot 'P;T:",
+      "confidence": 0.752
+    },
+    "date": {
+      "value": "17-02-18",
+      "confidence": 0.674,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "213,00",
+      "confidence": 0.779
+    },
+    "ocr_confidence": 0.379,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.67)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719883.jpg",
+    "error": null,
+    "store_name": {
+      "value": "'Lot P,T.",
+      "confidence": 0.82
+    },
+    "date": {
+      "value": "17-02-18",
+      "confidence": 0.725
+    },
+    "items": [],
+    "total_amount": {
+      "value": "747712",
+      "confidence": 0.48,
+      "flagged": true
+    },
+    "ocr_confidence": 0.551,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719886.jpg",
+    "error": null,
+    "store_name": {
+      "value": "WuorA~",
+      "confidence": 0.82
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "618556",
+      "confidence": 0.48,
+      "flagged": true
+    },
+    "ocr_confidence": 0.549,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719888.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POTTERS",
+      "confidence": 0.885
+    },
+    "date": {
+      "value": "04/01/2018",
+      "confidence": 0.774
+    },
+    "items": [],
+    "total_amount": {
+      "value": "400016",
+      "confidence": 0.529,
+      "flagged": true
+    },
+    "ocr_confidence": 0.713,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719889.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HENG",
+      "confidence": 0.858
+    },
+    "date": {
+      "value": "04/01/2018",
+      "confidence": 0.858
+    },
+    "items": [],
+    "total_amount": {
+      "value": "890176",
+      "confidence": 0.508,
+      "flagged": true
+    },
+    "ocr_confidence": 0.644,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719893.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Dekoalbi Solnie",
+      "confidence": 0.837
+    },
+    "date": {
+      "value": "2018-01-05",
+      "confidence": 0.738
+    },
+    "items": [],
+    "total_amount": {
+      "value": "619968",
+      "confidence": 0.493,
+      "flagged": true
+    },
+    "ocr_confidence": 0.593,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719895.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Io EEN LaNe PHARHACY  SDN  BHD",
+      "confidence": 0.686,
+      "flagged": true
+    },
+    "date": {
+      "value": "1/8/2048",
+      "confidence": 0.624,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "31",
+      "confidence": 0.729
+    },
+    "ocr_confidence": 0.215,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.62)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719896.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Va m",
+      "confidence": 0.632,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "408",
+      "confidence": 0.339,
+      "flagged": true
+    },
+    "ocr_confidence": 0.081,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.63)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.34)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719898.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MR ;",
+      "confidence": 0.764
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [
+      {
+        "name": "SALAN' KPB",
+        "price": "6",
+        "confidence": 0.683
+      },
+      {
+        "name": "4-eTaX INVOICE;,",
+        "price": "4",
+        "confidence": 0.683
+      }
+    ],
+    "total_amount": {
+      "value": "908452",
+      "confidence": 0.438,
+      "flagged": true
+    },
+    "ocr_confidence": 0.41,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.44)"
+    ]
+  },
+  {
+    "filename": "X51005719899.jpg",
+    "error": null,
+    "store_name": {
+      "value": "NYONYA",
+      "confidence": 0.874
+    },
+    "date": {
+      "value": "18-03-2018",
+      "confidence": 0.765
+    },
+    "items": [],
+    "total_amount": {
+      "value": "772822",
+      "confidence": 0.52,
+      "flagged": true
+    },
+    "ocr_confidence": 0.685,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719902.jpg",
+    "error": null,
+    "store_name": {
+      "value": "(KSB)",
+      "confidence": 0.777
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "651030",
+      "confidence": 0.448,
+      "flagged": true
+    },
+    "ocr_confidence": 0.443,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719903.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Gerbang Alaf Restaurants Sdhn Bhd",
+      "confidence": 0.865
+    },
+    "date": {
+      "value": "11/03/2018",
+      "confidence": 0.759
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.864
+    },
+    "ocr_confidence": 0.663,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719904.jpg",
+    "error": null,
+    "store_name": {
+      "value": "~am Fresh",
+      "confidence": 0.81
+    },
+    "date": {
+      "value": "2018-03-18",
+      "confidence": 0.717
+    },
+    "items": [],
+    "total_amount": {
+      "value": "13478,48",
+      "confidence": 0.472,
+      "flagged": true
+    },
+    "ocr_confidence": 0.524,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.47)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719905.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SAINT HEART PASTRY",
+      "confidence": 0.92
+    },
+    "date": {
+      "value": "25/03/2018",
+      "confidence": 0.8
+    },
+    "items": [],
+    "total_amount": {
+      "value": "613728",
+      "confidence": 0.555,
+      "flagged": true
+    },
+    "ocr_confidence": 0.799,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719906.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Zen and coffee 28 S/8",
+      "confidence": 0.874
+    },
+    "date": {
+      "value": "25 Mar 2018",
+      "confidence": 0.902
+    },
+    "items": [],
+    "total_amount": {
+      "value": "626193",
+      "confidence": 0.552,
+      "flagged": true
+    },
+    "ocr_confidence": 0.791,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719912.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Jaat:",
+      "confidence": 0.646,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "400089",
+      "confidence": 0.35,
+      "flagged": true
+    },
+    "ocr_confidence": 0.115,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.65)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.35)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719914.jpg",
+    "error": null,
+    "store_name": {
+      "value": "CHR;-D;IYG(KUCHAI:): SDN-BHD",
+      "confidence": 0.783
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "90671,70",
+      "confidence": 0.452,
+      "flagged": true
+    },
+    "ocr_confidence": 0.458,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005719917.jpg",
+    "error": null,
+    "store_name": {
+      "value": "DOMIKO\" $",
+      "confidence": 0.885
+    },
+    "date": {
+      "value": "12.54.37",
+      "confidence": 0.774
+    },
+    "items": [],
+    "total_amount": {
+      "value": "419060",
+      "confidence": 0.529,
+      "flagged": true
+    },
+    "ocr_confidence": 0.712,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005722668.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MY HAPPY PHARMAcY PLT",
+      "confidence": 0.913
+    },
+    "date": {
+      "value": "01/02/2018",
+      "confidence": 0.795
+    },
+    "items": [],
+    "total_amount": {
+      "value": "603426",
+      "confidence": 0.55,
+      "flagged": true
+    },
+    "ocr_confidence": 0.784,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005722699.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Vil",
+      "confidence": 0.879
+    },
+    "date": {
+      "value": "11/02/18",
+      "confidence": 0.769
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992000",
+      "confidence": 0.524,
+      "flagged": true
+    },
+    "ocr_confidence": 0.697,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724552.jpg",
+    "error": null,
+    "store_name": {
+      "value": "~jt",
+      "confidence": 0.848
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.537,
+      "flagged": true
+    },
+    "ocr_confidence": 0.74,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724554.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.915
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.551,
+      "flagged": true
+    },
+    "ocr_confidence": 0.787,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724611.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.908
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.546,
+      "flagged": true
+    },
+    "ocr_confidence": 0.769,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724621.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Nxr",
+      "confidence": 0.914
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.551,
+      "flagged": true
+    },
+    "ocr_confidence": 0.785,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724622.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Camb",
+      "confidence": 0.883
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.554,
+      "flagged": true
+    },
+    "ocr_confidence": 0.797,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724623.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDA",
+      "confidence": 0.885
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.534,
+      "flagged": true
+    },
+    "ocr_confidence": 0.729,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724624.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.931
+    },
+    "date": {
+      "value": "16/03/2078",
+      "confidence": 0.809
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.564,
+      "flagged": true
+    },
+    "ocr_confidence": 0.829,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724625.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.916
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.556,
+      "flagged": true
+    },
+    "ocr_confidence": 0.804,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724626.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.899
+    },
+    "date": {
+      "value": "08.42.00",
+      "confidence": 0.789
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.544,
+      "flagged": true
+    },
+    "ocr_confidence": 0.763,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724627.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.903
+    },
+    "date": {
+      "value": "1.17.49",
+      "confidence": 0.787
+    },
+    "items": [],
+    "total_amount": {
+      "value": "878860",
+      "confidence": 0.542,
+      "flagged": true
+    },
+    "ocr_confidence": 0.757,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724628.jpg",
+    "error": null,
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.927
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.56,
+      "flagged": true
+    },
+    "ocr_confidence": 0.818,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.56)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005724629.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Ceke",
+      "confidence": 0.903
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876860",
+      "confidence": 0.542,
+      "flagged": true
+    },
+    "ocr_confidence": 0.757,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.54)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005741929.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MyMydin Subang Bestari 2300_",
+      "confidence": 0.741
+    },
+    "date": {
+      "value": "5/01/2018",
+      "confidence": 0.803
+    },
+    "items": [],
+    "total_amount": {
+      "value": "971264",
+      "confidence": 0.453,
+      "flagged": true
+    },
+    "ocr_confidence": 0.46,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.45)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005741944.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Jalan Lapangan Terbang Subang",
+      "confidence": 0.793
+    },
+    "date": {
+      "value": "18-01-2018",
+      "confidence": 0.767
+    },
+    "items": [
+      {
+        "name": "inf initi 9 E4MP3",
+        "price": "2570",
+        "confidence": 0.767
+      }
+    ],
+    "total_amount": {
+      "value": "916166",
+      "confidence": 0.522,
+      "flagged": true
+    },
+    "ocr_confidence": 0.692,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)"
+    ]
+  },
+  {
+    "filename": "X51005742068.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BHPetro] Palekbang",
+      "confidence": 0.882
+    },
+    "date": {
+      "value": "24-03-2018",
+      "confidence": 0.772
+    },
+    "items": [],
+    "total_amount": {
+      "value": "29721",
+      "confidence": 0.527,
+      "flagged": true
+    },
+    "ocr_confidence": 0.706,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.53)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005742110.jpg",
+    "error": null,
+    "store_name": {
+      "value": "YONG CEN ENTERPRISE",
+      "confidence": 0.858
+    },
+    "date": {
+      "value": "10.47.00",
+      "confidence": 0.754
+    },
+    "items": [],
+    "total_amount": {
+      "value": "981824",
+      "confidence": 0.509,
+      "flagged": true
+    },
+    "ocr_confidence": 0.646,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745183.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BILLION SIX ENTERPRISE",
+      "confidence": 0.863
+    },
+    "date": {
+      "value": "22/02/2018",
+      "confidence": 0.757
+    },
+    "items": [],
+    "total_amount": {
+      "value": "956640",
+      "confidence": 0.512,
+      "flagged": true
+    },
+    "ocr_confidence": 0.656,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745187.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SLF CASH & CARRY",
+      "confidence": 0.789
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "9557,366",
+      "confidence": 0.457,
+      "flagged": true
+    },
+    "ocr_confidence": 0.472,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745188.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SLF",
+      "confidence": 0.821
+    },
+    "date": {
+      "value": "02/02/2018",
+      "confidence": 0.831
+    },
+    "items": [],
+    "total_amount": {
+      "value": "777436",
+      "confidence": 0.481,
+      "flagged": true
+    },
+    "ocr_confidence": 0.553,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745190.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SUPER SEVEN CASH & CARRY 'SDN  3HD",
+      "confidence": 0.797
+    },
+    "date": {
+      "value": "12-02-2018",
+      "confidence": 0.708
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955680",
+      "confidence": 0.463,
+      "flagged": true
+    },
+    "ocr_confidence": 0.494,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745213.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Mun KENG ELECTRICAL &",
+      "confidence": 0.709
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "960460",
+      "confidence": 0.397,
+      "flagged": true
+    },
+    "ocr_confidence": 0.272,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745214.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LOT PT 2811, JALAN ANCSA,",
+      "confidence": 0.82
+    },
+    "date": {
+      "value": "07-02-18",
+      "confidence": 0.73
+    },
+    "items": [],
+    "total_amount": {
+      "value": "747712",
+      "confidence": 0.485,
+      "flagged": true
+    },
+    "ocr_confidence": 0.565,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745244.jpg",
+    "error": null,
+    "store_name": {
+      "value": "DATARAN GLOMAC _",
+      "confidence": 0.695,
+      "flagged": true
+    },
+    "date": {
+      "value": "4-6-06",
+      "confidence": 0.708
+    },
+    "items": [],
+    "total_amount": {
+      "value": "788706",
+      "confidence": 0.463,
+      "flagged": true
+    },
+    "ocr_confidence": 0.492,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745249.jpg",
+    "error": null,
+    "store_name": {
+      "value": "A-G-O6 ,  DATARAN GLOMAC; _",
+      "confidence": 0.821
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "708706",
+      "confidence": 0.494,
+      "flagged": true
+    },
+    "ocr_confidence": 0.596,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745296.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SUSHI  MENTAI",
+      "confidence": 0.913
+    },
+    "date": {
+      "value": "09-04-2018",
+      "confidence": 0.795
+    },
+    "items": [],
+    "total_amount": {
+      "value": "673381",
+      "confidence": 0.55,
+      "flagged": true
+    },
+    "ocr_confidence": 0.782,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.55)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005745298.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Lot F.T. 2811, JALAN ANGSA;",
+      "confidence": 0.702
+    },
+    "date": {
+      "value": "31-03-18",
+      "confidence": 0.706
+    },
+    "items": [],
+    "total_amount": {
+      "value": "570342",
+      "confidence": 0.461,
+      "flagged": true
+    },
+    "ocr_confidence": 0.486,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.46)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005746140.jpg",
+    "error": null,
+    "store_name": {
+      "value": "YONG CEN ENTERPRISE",
+      "confidence": 0.879
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "981824",
+      "confidence": 0.524,
+      "flagged": true
+    },
+    "ocr_confidence": 0.697,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005746203.jpg",
+    "error": null,
+    "store_name": {
+      "value": "'SUPER SEVEN CASH & CARPX SDN BHD",
+      "confidence": 0.842
+    },
+    "date": {
+      "value": "01-03-2018",
+      "confidence": 0.741
+    },
+    "items": [
+      {
+        "name": "QY CINCAL 2KG",
+        "price": "03.90",
+        "confidence": 0.741
+      }
+    ],
+    "total_amount": {
+      "value": "955724",
+      "confidence": 0.496,
+      "flagged": true
+    },
+    "ocr_confidence": 0.604,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.50)"
+    ]
+  },
+  {
+    "filename": "X51005746204.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BERED (SP) SDH_ BHD_",
+      "confidence": 0.805
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "8",
+      "confidence": 0.819
+    },
+    "ocr_confidence": 0.513,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005746206.jpg",
+    "error": null,
+    "store_name": {
+      "value": "PANG JAYA ENTEAPAISE",
+      "confidence": 0.836
+    },
+    "date": {
+      "value": "21-03-2010",
+      "confidence": 0.737
+    },
+    "items": [],
+    "total_amount": {
+      "value": "539405",
+      "confidence": 0.492,
+      "flagged": true
+    },
+    "ocr_confidence": 0.589,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005746207.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SUPER SEVEN CASH & CARRY SDN 'BHD",
+      "confidence": 0.85
+    },
+    "date": {
+      "value": "21-03-2018",
+      "confidence": 0.747
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955619",
+      "confidence": 0.502,
+      "flagged": true
+    },
+    "ocr_confidence": 0.624,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.50)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005746210.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Shah Alan",
+      "confidence": 0.771
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "664503",
+      "confidence": 0.47,
+      "flagged": true
+    },
+    "ocr_confidence": 0.517,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.47)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005749895.jpg",
+    "error": null,
+    "store_name": {
+      "value": "'MR : 0.12; (M)",
+      "confidence": 0.85
+    },
+    "date": {
+      "value": "02-03-18",
+      "confidence": 0.747
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.852
+    },
+    "ocr_confidence": 0.624,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005749904.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ENTERFRISE SDN BAD",
+      "confidence": 0.858
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "125830",
+      "confidence": 0.508,
+      "flagged": true
+    },
+    "ocr_confidence": 0.644,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.51)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005749905.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ENW Hardware Centre (M) Sdn: Bhd:",
+      "confidence": 0.918
+    },
+    "date": {
+      "value": "10/03/2018",
+      "confidence": 0.798
+    },
+    "items": [],
+    "total_amount": {
+      "value": "6",
+      "confidence": 0.903
+    },
+    "ocr_confidence": 0.794,
+    "flags": [
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005749912.jpg",
+    "error": null,
+    "store_name": {
+      "value": "MR .",
+      "confidence": 0.803
+    },
+    "date": {
+      "value": "28-03-18",
+      "confidence": 0.713
+    },
+    "items": [],
+    "total_amount": {
+      "value": "907236",
+      "confidence": 0.468,
+      "flagged": true
+    },
+    "ocr_confidence": 0.509,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.47)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757199.jpg",
+    "error": null,
+    "store_name": {
+      "value": "BOPULAR  BOOK",
+      "confidence": 0.693,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "992000",
+      "confidence": 0.385,
+      "flagged": true
+    },
+    "ocr_confidence": 0.233,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.69)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757201.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SRUrlrh 4E_UIAHAUHH4URI SC",
+      "confidence": 0.576,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "940781",
+      "confidence": 0.386,
+      "flagged": true
+    },
+    "ocr_confidence": 0.237,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.58)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757233.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Gandianledlio Gbdvieaitey Gdj Frd",
+      "confidence": 0.641,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "840220",
+      "confidence": 0.346,
+      "flagged": true
+    },
+    "ocr_confidence": 0.103,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.64)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.35)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757235.jpg",
+    "error": null,
+    "store_name": {
+      "value": "JW) jeJ ke5 ULANIHuRD",
+      "confidence": 0.533,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "627000",
+      "confidence": 0.383,
+      "flagged": true
+    },
+    "ocr_confidence": 0.227,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.53)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.38)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757243.jpg",
+    "error": null,
+    "store_name": {
+      "value": "POPOLAR  Bodb",
+      "confidence": 0.649,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "926029",
+      "confidence": 0.388,
+      "flagged": true
+    },
+    "ocr_confidence": 0.242,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.65)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757248.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@UFIR",
+      "confidence": 0.472,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "800101",
+      "confidence": 0.367,
+      "flagged": true
+    },
+    "ocr_confidence": 0.174,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.47)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757273.jpg",
+    "error": null,
+    "store_name": {
+      "value": "K(CO",
+      "confidence": 0.697,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "880002",
+      "confidence": 0.392,
+      "flagged": true
+    },
+    "ocr_confidence": 0.257,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757282.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Tevelez",
+      "confidence": 0.696,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "803027",
+      "confidence": 0.387,
+      "flagged": true
+    },
+    "ocr_confidence": 0.24,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757286.jpg",
+    "error": null,
+    "store_name": {
+      "value": "{adwn",
+      "confidence": 0.659,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "664832",
+      "confidence": 0.431,
+      "flagged": true
+    },
+    "ocr_confidence": 0.386,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757290.jpg",
+    "error": null,
+    "store_name": {
+      "value": "{(W) SON @HD)",
+      "confidence": 0.759
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955559",
+      "confidence": 0.434,
+      "flagged": true
+    },
+    "ocr_confidence": 0.397,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.43)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757292.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Zigozoar",
+      "confidence": 0.699,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "969005",
+      "confidence": 0.389,
+      "flagged": true
+    },
+    "ocr_confidence": 0.247,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757294.jpg",
+    "error": null,
+    "store_name": {
+      "value": "(FRRb",
+      "confidence": 0.684,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "806378",
+      "confidence": 0.414,
+      "flagged": true
+    },
+    "ocr_confidence": 0.329,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757304.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@ATSKARANS  oB Haly",
+      "confidence": 0.621,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "620003",
+      "confidence": 0.403,
+      "flagged": true
+    },
+    "ocr_confidence": 0.293,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.62)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757308.jpg",
+    "error": null,
+    "store_name": {
+      "value": "(Ra (Ozzole- {HLSDNGHD",
+      "confidence": 0.664,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "63",
+      "confidence": 0.749
+    },
+    "ocr_confidence": 0.281,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.66)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757323.jpg",
+    "error": null,
+    "store_name": {
+      "value": "(Rs @SEaVk (C)SDMBHD",
+      "confidence": 0.684,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "63",
+      "confidence": 0.764
+    },
+    "ocr_confidence": 0.331,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757324.jpg",
+    "error": null,
+    "store_name": {
+      "value": "iHRE",
+      "confidence": 0.669,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [
+      {
+        "name": "(O1",
+        "price": "185",
+        "confidence": 0.648
+      }
+    ],
+    "total_amount": {
+      "value": "955549",
+      "confidence": 0.403,
+      "flagged": true
+    },
+    "ocr_confidence": 0.292,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.67)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)"
+    ]
+  },
+  {
+    "filename": "X51005757342.jpg",
+    "error": null,
+    "store_name": {
+      "value": "URb",
+      "confidence": 0.696,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955522",
+      "confidence": 0.423,
+      "flagged": true
+    },
+    "ocr_confidence": 0.36,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757346.jpg",
+    "error": null,
+    "store_name": {
+      "value": "IR; @F",
+      "confidence": 0.724
+    },
+    "date": {
+      "value": "23-08-18",
+      "confidence": 0.653,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955311",
+      "confidence": 0.408,
+      "flagged": true
+    },
+    "ocr_confidence": 0.311,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.65)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757349.jpg",
+    "error": null,
+    "store_name": {
+      "value": "GOLDEKEY UHAKER",
+      "confidence": 0.734
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "808020",
+      "confidence": 0.415,
+      "flagged": true
+    },
+    "ocr_confidence": 0.334,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757351.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LOT",
+      "confidence": 0.715
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "956522",
+      "confidence": 0.406,
+      "flagged": true
+    },
+    "ocr_confidence": 0.303,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005757353.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@Ro @zalo (CD))_SDNGHD",
+      "confidence": 0.729
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "907433",
+      "confidence": 0.411,
+      "flagged": true
+    },
+    "ocr_confidence": 0.322,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005763940.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HatNeyNemal",
+      "confidence": 0.872
+    },
+    "date": {
+      "value": "11.02.18",
+      "confidence": 0.764
+    },
+    "items": [],
+    "total_amount": {
+      "value": "880002",
+      "confidence": 0.519,
+      "flagged": true
+    },
+    "ocr_confidence": 0.68,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005763958.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SUPER SEVEN CASH & CARRY SDN BHD",
+      "confidence": 0.818
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955662",
+      "confidence": 0.479,
+      "flagged": true
+    },
+    "ocr_confidence": 0.546,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005763964.jpg",
+    "error": null,
+    "store_name": {
+      "value": "YONC CEN ENTERPRISE",
+      "confidence": 0.863
+    },
+    "date": {
+      "value": "08/01/2018",
+      "confidence": 0.867
+    },
+    "items": [],
+    "total_amount": {
+      "value": "981824",
+      "confidence": 0.517,
+      "flagged": true
+    },
+    "ocr_confidence": 0.673,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.52)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005763999.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Invqice Nq",
+      "confidence": 0.632,
+      "flagged": true
+    },
+    "date": {
+      "value": "06 Jan 2018",
+      "confidence": 0.719
+    },
+    "items": [],
+    "total_amount": {
+      "value": "645696",
+      "confidence": 0.474,
+      "flagged": true
+    },
+    "ocr_confidence": 0.53,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.63)",
+      "LOW_CONFIDENCE:total_amount(0.47)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005764031.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SuPER SEVEN CASH & CARRV SbN BHD",
+      "confidence": 0.824
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "955002",
+      "confidence": 0.483,
+      "flagged": true
+    },
+    "ocr_confidence": 0.56,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.48)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005764154.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Dis ,",
+      "confidence": 0.84
+    },
+    "date": {
+      "value": "25-01-2018",
+      "confidence": 0.74
+    },
+    "items": [],
+    "total_amount": {
+      "value": "537422",
+      "confidence": 0.495,
+      "flagged": true
+    },
+    "ocr_confidence": 0.601,
+    "flags": [
+      "LOW_CONFIDENCE:total_amount(0.49)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005764161.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Eot P.t, 2811, JALAN AKGSA;",
+      "confidence": 0.632,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "569504",
+      "confidence": 0.408,
+      "flagged": true
+    },
+    "ocr_confidence": 0.312,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.63)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806678.jpg",
+    "error": null,
+    "store_name": {
+      "value": "IKAISQNTFURNZSHTNG SDNNEFD}",
+      "confidence": 0.675,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "998111",
+      "confidence": 0.372,
+      "flagged": true
+    },
+    "ocr_confidence": 0.189,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.68)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.37)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806679.jpg",
+    "error": null,
+    "store_name": {
+      "value": "LEewaHFj@RIstS@NEHD",
+      "confidence": 0.699,
+      "flagged": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "521273",
+      "confidence": 0.389,
+      "flagged": true
+    },
+    "ocr_confidence": 0.247,
+    "flags": [
+      "LOW_CONFIDENCE:store_name(0.70)",
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.39)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806685.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ADVANCOC@MPAN",
+      "confidence": 0.742
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "445824",
+      "confidence": 0.422,
+      "flagged": true
+    },
+    "ocr_confidence": 0.356,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806692.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Uaxuvoice'",
+      "confidence": 0.731
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "801049",
+      "confidence": 0.413,
+      "flagged": true
+    },
+    "ocr_confidence": 0.328,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806695.jpg",
+    "error": null,
+    "store_name": {
+      "value": "SMANGYOUSTATIONSDNBLD",
+      "confidence": 0.738
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "900454",
+      "confidence": 0.419,
+      "flagged": true
+    },
+    "ocr_confidence": 0.345,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806696.jpg",
+    "error": null,
+    "store_name": {
+      "value": "IMACBIFRINIECIWSDNBHD}",
+      "confidence": 0.728
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "770012",
+      "confidence": 0.411,
+      "flagged": true
+    },
+    "ocr_confidence": 0.319,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806698.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ADVANNGO@OMPANN",
+      "confidence": 0.743
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "895163",
+      "confidence": 0.422,
+      "flagged": true
+    },
+    "ocr_confidence": 0.357,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806702.jpg",
+    "error": null,
+    "store_name": {
+      "value": "cashSala",
+      "confidence": 0.716
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876032",
+      "confidence": 0.402,
+      "flagged": true
+    },
+    "ocr_confidence": 0.289,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.40)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806703.jpg",
+    "error": null,
+    "store_name": {
+      "value": "@ashgaa_",
+      "confidence": 0.731
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "876022",
+      "confidence": 0.413,
+      "flagged": true
+    },
+    "ocr_confidence": 0.328,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806716.jpg",
+    "error": null,
+    "store_name": {
+      "value": "ADVANCOCOMEAN ;",
+      "confidence": 0.735
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "717104",
+      "confidence": 0.416,
+      "flagged": true
+    },
+    "ocr_confidence": 0.337,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806718.jpg",
+    "error": null,
+    "store_name": {
+      "value": "HuGo",
+      "confidence": 0.747
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "822272",
+      "confidence": 0.425,
+      "flagged": true
+    },
+    "ocr_confidence": 0.366,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.42)",
+      "NO_ITEMS_DETECTED"
+    ]
+  },
+  {
+    "filename": "X51005806719.jpg",
+    "error": null,
+    "store_name": {
+      "value": "Sidb",
+      "confidence": 0.724
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0,
+      "flagged": true
+    },
+    "items": [],
+    "total_amount": {
+      "value": "205824",
+      "confidence": 0.408,
+      "flagged": true
+    },
+    "ocr_confidence": 0.31,
+    "flags": [
+      "LOW_CONFIDENCE:date(0.00)",
+      "LOW_CONFIDENCE:total_amount(0.41)",
+      "NO_ITEMS_DETECTED"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005715007.jpg",
+  "error": null,
+  "store_name": {
+    "value": "KAISOn  FurNISHING SDN BKD",
+    "confidence": 0.777
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "975040",
+    "confidence": 0.484,
+    "flagged": true
+  },
+  "ocr_confidence": 0.563,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

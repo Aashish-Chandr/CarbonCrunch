@@ -1,0 +1,27 @@
+{
+  "filename": "X51005301659.jpg",
+  "error": null,
+  "store_name": {
+    "value": "@Egltd4",
+    "confidence": 0.632,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "634040",
+    "confidence": 0.362,
+    "flagged": true
+  },
+  "ocr_confidence": 0.158,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.63)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.36)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

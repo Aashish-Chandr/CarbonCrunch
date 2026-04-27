@@ -1,0 +1,23 @@
+{
+  "filename": "X51005361906.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TEQ HENG sTatiqnerK & EQOKS",
+    "confidence": 0.759
+  },
+  "date": {
+    "value": "27/01/2018",
+    "confidence": 0.751
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955795",
+    "confidence": 0.506,
+    "flagged": true
+  },
+  "ocr_confidence": 0.637,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

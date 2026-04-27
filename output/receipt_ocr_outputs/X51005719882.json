@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719882.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Lot 'P;T:",
+    "confidence": 0.752
+  },
+  "date": {
+    "value": "17-02-18",
+    "confidence": 0.674,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "213,00",
+    "confidence": 0.779
+  },
+  "ocr_confidence": 0.379,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.67)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

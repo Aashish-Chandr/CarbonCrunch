@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719864.jpg",
+  "error": null,
+  "store_name": {
+    "value": "FIN N CHEER (MALTRQ)",
+    "confidence": 0.808
+  },
+  "date": {
+    "value": "05/01/2018",
+    "confidence": 0.716
+  },
+  "items": [],
+  "total_amount": {
+    "value": "626125",
+    "confidence": 0.471,
+    "flagged": true
+  },
+  "ocr_confidence": 0.52,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.47)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

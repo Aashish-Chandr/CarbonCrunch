@@ -1,0 +1,21 @@
+{
+  "filename": "X51005719873.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Your order number is",
+    "confidence": 0.895
+  },
+  "date": {
+    "value": "15.46.09",
+    "confidence": 0.781
+  },
+  "items": [],
+  "total_amount": {
+    "value": "46",
+    "confidence": 0.886
+  },
+  "ocr_confidence": 0.738,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

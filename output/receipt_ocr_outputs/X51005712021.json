@@ -1,0 +1,23 @@
+{
+  "filename": "X51005712021.jpg",
+  "error": null,
+  "store_name": {
+    "value": "HAPPY SNACKSZEENTERPRISE",
+    "confidence": 0.865
+  },
+  "date": {
+    "value": "20/03/2018",
+    "confidence": 0.759
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955629",
+    "confidence": 0.514,
+    "flagged": true
+  },
+  "ocr_confidence": 0.662,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

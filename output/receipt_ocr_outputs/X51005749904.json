@@ -1,0 +1,25 @@
+{
+  "filename": "X51005749904.jpg",
+  "error": null,
+  "store_name": {
+    "value": "ENTERFRISE SDN BAD",
+    "confidence": 0.858
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "125830",
+    "confidence": 0.508,
+    "flagged": true
+  },
+  "ocr_confidence": 0.644,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

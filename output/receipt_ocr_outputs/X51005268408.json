@@ -1,0 +1,27 @@
+{
+  "filename": "X51005268408.jpg",
+  "error": null,
+  "store_name": {
+    "value": "FawacBE kaiz7",
+    "confidence": 0.454,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "891654",
+    "confidence": 0.331,
+    "flagged": true
+  },
+  "ocr_confidence": 0.053,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.45)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.33)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

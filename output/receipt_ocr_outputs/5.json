@@ -1,0 +1,23 @@
+{
+  "filename": "5.jpg",
+  "error": null,
+  "store_name": {
+    "value": "WHOLE FOODS",
+    "confidence": 0.819
+  },
+  "date": {
+    "value": "9/15/2020",
+    "confidence": 0.724
+  },
+  "items": [],
+  "total_amount": {
+    "value": "707908",
+    "confidence": 0.479,
+    "flagged": true
+  },
+  "ocr_confidence": 0.548,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

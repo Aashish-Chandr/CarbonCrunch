@@ -1,0 +1,25 @@
+{
+  "filename": "X51005453729.jpg",
+  "error": null,
+  "store_name": {
+    "value": "LAN HING STATIONERY SDN BHD",
+    "confidence": 0.887
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "318030",
+    "confidence": 0.53,
+    "flagged": true
+  },
+  "ocr_confidence": 0.717,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.53)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

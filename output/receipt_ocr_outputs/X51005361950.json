@@ -1,0 +1,27 @@
+{
+  "filename": "X51005361950.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TAFRK ERRELEY",
+    "confidence": 0.66,
+    "flagged": true
+  },
+  "date": {
+    "value": "34-41-18",
+    "confidence": 0.61,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "568882",
+    "confidence": 0.365,
+    "flagged": true
+  },
+  "ocr_confidence": 0.166,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.66)",
+    "LOW_CONFIDENCE:date(0.61)",
+    "LOW_CONFIDENCE:total_amount(0.36)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

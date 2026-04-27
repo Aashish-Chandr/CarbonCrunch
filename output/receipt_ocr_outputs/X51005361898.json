@@ -1,0 +1,25 @@
+{
+  "filename": "X51005361898.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TEQ HENG ITATIDNERY & BOdks",
+    "confidence": 0.734
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955665",
+    "confidence": 0.416,
+    "flagged": true
+  },
+  "ocr_confidence": 0.336,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.42)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

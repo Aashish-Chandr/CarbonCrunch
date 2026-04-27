@@ -1,0 +1,25 @@
+{
+  "filename": "X51005230657.jpg",
+  "error": null,
+  "store_name": {
+    "value": "CROSS CHANNEL NEJWORK SDN BHD",
+    "confidence": 0.815
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "230838",
+    "confidence": 0.477,
+    "flagged": true
+  },
+  "ocr_confidence": 0.539,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

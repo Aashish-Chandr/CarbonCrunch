@@ -1,0 +1,27 @@
+{
+  "filename": "X51005757286.jpg",
+  "error": null,
+  "store_name": {
+    "value": "{adwn",
+    "confidence": 0.659,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "664832",
+    "confidence": 0.431,
+    "flagged": true
+  },
+  "ocr_confidence": 0.386,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.66)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.43)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

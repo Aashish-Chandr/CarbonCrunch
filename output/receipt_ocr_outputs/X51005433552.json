@@ -1,0 +1,27 @@
+{
+  "filename": "X51005433552.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Aqenko",
+    "confidence": 0.678,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "822880",
+    "confidence": 0.373,
+    "flagged": true
+  },
+  "ocr_confidence": 0.194,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.68)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.37)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

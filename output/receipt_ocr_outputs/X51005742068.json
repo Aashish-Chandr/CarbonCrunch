@@ -1,0 +1,23 @@
+{
+  "filename": "X51005742068.jpg",
+  "error": null,
+  "store_name": {
+    "value": "BHPetro] Palekbang",
+    "confidence": 0.882
+  },
+  "date": {
+    "value": "24-03-2018",
+    "confidence": 0.772
+  },
+  "items": [],
+  "total_amount": {
+    "value": "29721",
+    "confidence": 0.527,
+    "flagged": true
+  },
+  "ocr_confidence": 0.706,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.53)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "filename": "X51005719862.jpg",
+  "error": null,
+  "store_name": {
+    "value": "\"SREGQ KArT",
+    "confidence": 0.653,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "827477",
+    "confidence": 0.354,
+    "flagged": true
+  },
+  "ocr_confidence": 0.131,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.65)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.35)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

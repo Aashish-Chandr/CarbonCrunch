@@ -1,0 +1,27 @@
+{
+  "filename": "X51005675095.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Qulaiias",
+    "confidence": 0.664,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "412403",
+    "confidence": 0.39,
+    "flagged": true
+  },
+  "ocr_confidence": 0.25,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.66)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.39)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

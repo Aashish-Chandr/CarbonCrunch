@@ -1,0 +1,21 @@
+{
+  "filename": "X51005621482.jpg",
+  "error": null,
+  "store_name": {
+    "value": "PrEMO",
+    "confidence": 0.878
+  },
+  "date": {
+    "value": "20/03/2018",
+    "confidence": 0.769
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6.00",
+    "confidence": 0.874
+  },
+  "ocr_confidence": 0.695,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

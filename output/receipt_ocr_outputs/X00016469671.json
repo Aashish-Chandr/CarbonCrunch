@@ -1,0 +1,25 @@
+{
+  "filename": "X00016469671.jpg",
+  "error": null,
+  "store_name": {
+    "value": "tan chay",
+    "confidence": 0.742
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "538358",
+    "confidence": 0.421,
+    "flagged": true
+  },
+  "ocr_confidence": 0.354,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.42)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

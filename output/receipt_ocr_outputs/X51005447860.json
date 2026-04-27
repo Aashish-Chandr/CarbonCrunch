@@ -1,0 +1,23 @@
+{
+  "filename": "X51005447860.jpg",
+  "error": null,
+  "store_name": {
+    "value": "JLN JEJAKA , TAMAN  HALURI",
+    "confidence": 0.835
+  },
+  "date": {
+    "value": "19/02/2018",
+    "confidence": 0.741
+  },
+  "items": [],
+  "total_amount": {
+    "value": "731878",
+    "confidence": 0.496,
+    "flagged": true
+  },
+  "ocr_confidence": 0.602,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.50)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719814.jpg",
+  "error": null,
+  "store_name": {
+    "value": "KIKU",
+    "confidence": 0.9
+  },
+  "date": {
+    "value": "17/1/2018",
+    "confidence": 0.785
+  },
+  "items": [],
+  "total_amount": {
+    "value": "120215",
+    "confidence": 0.54,
+    "flagged": true
+  },
+  "ocr_confidence": 0.751,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.54)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

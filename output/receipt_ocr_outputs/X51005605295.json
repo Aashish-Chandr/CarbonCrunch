@@ -1,0 +1,23 @@
+{
+  "filename": "X51005605295.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Lot QO]_",
+    "confidence": 0.701
+  },
+  "date": {
+    "value": "22/03/18",
+    "confidence": 0.707
+  },
+  "items": [],
+  "total_amount": {
+    "value": "955550",
+    "confidence": 0.462,
+    "flagged": true
+  },
+  "ocr_confidence": 0.491,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.46)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

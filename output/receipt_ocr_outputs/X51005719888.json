@@ -1,0 +1,23 @@
+{
+  "filename": "X51005719888.jpg",
+  "error": null,
+  "store_name": {
+    "value": "POTTERS",
+    "confidence": 0.885
+  },
+  "date": {
+    "value": "04/01/2018",
+    "confidence": 0.774
+  },
+  "items": [],
+  "total_amount": {
+    "value": "400016",
+    "confidence": 0.529,
+    "flagged": true
+  },
+  "ocr_confidence": 0.713,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.53)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

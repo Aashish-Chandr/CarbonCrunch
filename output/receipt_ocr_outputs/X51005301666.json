@@ -1,0 +1,25 @@
+{
+  "filename": "X51005301666.jpg",
+  "error": null,
+  "store_name": {
+    "value": "iICRooiCn@DrV SW @D",
+    "confidence": 0.726
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "886294",
+    "confidence": 0.41,
+    "flagged": true
+  },
+  "ocr_confidence": 0.316,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.41)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005433514.jpg",
+  "error": null,
+  "store_name": {
+    "value": "UNIHAKKA NTERNATIQNALSDN",
+    "confidence": 0.711
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "967323",
+    "confidence": 0.398,
+    "flagged": true
+  },
+  "ocr_confidence": 0.278,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.40)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

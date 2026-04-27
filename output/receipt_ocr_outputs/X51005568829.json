@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568829.jpg",
+  "error": null,
+  "store_name": {
+    "value": "WHAI DDELICIOUS RESTAURANT",
+    "confidence": 0.846
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "47100",
+    "confidence": 0.499,
+    "flagged": true
+  },
+  "ocr_confidence": 0.614,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.50)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

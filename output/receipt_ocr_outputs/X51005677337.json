@@ -1,0 +1,23 @@
+{
+  "filename": "X51005677337.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.934
+  },
+  "date": {
+    "value": "16.30.00",
+    "confidence": 0.815
+  },
+  "items": [],
+  "total_amount": {
+    "value": "673920",
+    "confidence": 0.57,
+    "flagged": true
+  },
+  "ocr_confidence": 0.851,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.57)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

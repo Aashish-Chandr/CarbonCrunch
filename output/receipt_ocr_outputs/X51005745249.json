@@ -1,0 +1,25 @@
+{
+  "filename": "X51005745249.jpg",
+  "error": null,
+  "store_name": {
+    "value": "A-G-O6 ,  DATARAN GLOMAC; _",
+    "confidence": 0.821
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "708706",
+    "confidence": 0.494,
+    "flagged": true
+  },
+  "ocr_confidence": 0.596,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.49)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

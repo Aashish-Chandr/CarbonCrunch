@@ -1,0 +1,23 @@
+{
+  "filename": "X51005605332.jpg",
+  "error": null,
+  "store_name": {
+    "value": "POPULAR",
+    "confidence": 0.858
+  },
+  "date": {
+    "value": "14/03/18",
+    "confidence": 0.753
+  },
+  "items": [],
+  "total_amount": {
+    "value": "992000",
+    "confidence": 0.508,
+    "flagged": true
+  },
+  "ocr_confidence": 0.644,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.51)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

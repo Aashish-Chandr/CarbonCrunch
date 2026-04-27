@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568855.jpg",
+  "error": null,
+  "store_name": {
+    "value": "POPULar   Book",
+    "confidence": 0.767
+  },
+  "date": {
+    "value": "31/08/20",
+    "confidence": 0.685,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "913224",
+    "confidence": 0.44,
+    "flagged": true
+  },
+  "ocr_confidence": 0.417,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.69)",
+    "LOW_CONFIDENCE:total_amount(0.44)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

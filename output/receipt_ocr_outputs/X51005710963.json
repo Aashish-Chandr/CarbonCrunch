@@ -1,0 +1,23 @@
+{
+  "filename": "X51005710963.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TS TQOLS EarwwAne",
+    "confidence": 0.777
+  },
+  "date": {
+    "value": "21/03/2018",
+    "confidence": 0.798
+  },
+  "items": [],
+  "total_amount": {
+    "value": "761802",
+    "confidence": 0.448,
+    "flagged": true
+  },
+  "ocr_confidence": 0.444,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.45)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

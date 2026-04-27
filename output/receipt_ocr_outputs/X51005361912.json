@@ -1,0 +1,25 @@
+{
+  "filename": "X51005361912.jpg",
+  "error": null,
+  "store_name": {
+    "value": "TED HENG statideRS",
+    "confidence": 0.751
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "068721",
+    "confidence": 0.428,
+    "flagged": true
+  },
+  "ocr_confidence": 0.377,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.43)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

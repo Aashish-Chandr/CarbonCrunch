@@ -1,0 +1,23 @@
+{
+  "filename": "X51005441398.jpg",
+  "error": null,
+  "store_name": {
+    "value": "BREWERY",
+    "confidence": 0.877
+  },
+  "date": {
+    "value": "30/03/2018",
+    "confidence": 0.767
+  },
+  "items": [],
+  "total_amount": {
+    "value": "626292",
+    "confidence": 0.522,
+    "flagged": true
+  },
+  "ocr_confidence": 0.691,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

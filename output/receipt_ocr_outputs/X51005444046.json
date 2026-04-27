@@ -1,0 +1,23 @@
+{
+  "filename": "X51005444046.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Desa Pandan; Off kampong Pandan;",
+    "confidence": 0.82
+  },
+  "date": {
+    "value": "25/03/18",
+    "confidence": 0.797
+  },
+  "items": [],
+  "total_amount": {
+    "value": "943424",
+    "confidence": 0.552,
+    "flagged": true
+  },
+  "ocr_confidence": 0.79,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

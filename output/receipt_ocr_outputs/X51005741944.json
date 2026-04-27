@@ -1,0 +1,28 @@
+{
+  "filename": "X51005741944.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Jalan Lapangan Terbang Subang",
+    "confidence": 0.793
+  },
+  "date": {
+    "value": "18-01-2018",
+    "confidence": 0.767
+  },
+  "items": [
+    {
+      "name": "inf initi 9 E4MP3",
+      "price": "2570",
+      "confidence": 0.767
+    }
+  ],
+  "total_amount": {
+    "value": "916166",
+    "confidence": 0.522,
+    "flagged": true
+  },
+  "ocr_confidence": 0.692,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)"
+  ]
+}

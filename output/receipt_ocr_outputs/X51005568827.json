@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568827.jpg",
+  "error": null,
+  "store_name": {
+    "value": "\"Banh MMi CaFE",
+    "confidence": 0.783
+  },
+  "date": {
+    "value": "29-10-2017",
+    "confidence": 0.698,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "700288",
+    "confidence": 0.453,
+    "flagged": true
+  },
+  "ocr_confidence": 0.459,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.70)",
+    "LOW_CONFIDENCE:total_amount(0.45)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

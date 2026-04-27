@@ -1,0 +1,23 @@
+{
+  "filename": "X51005442382.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Aozfi7",
+    "confidence": 0.701
+  },
+  "date": {
+    "value": "2018.47.35",
+    "confidence": 0.635,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "8,80",
+    "confidence": 0.74
+  },
+  "ocr_confidence": 0.252,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.64)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

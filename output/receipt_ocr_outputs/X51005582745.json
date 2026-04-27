@@ -1,0 +1,25 @@
+{
+  "filename": "X51005582745.jpg",
+  "error": null,
+  "store_name": {
+    "value": "MODERN",
+    "confidence": 0.781
+  },
+  "date": {
+    "value": "04/12/2016",
+    "confidence": 0.801
+  },
+  "items": [
+    {
+      "name": "S/N4",
+      "price": "031274",
+      "confidence": 0.696
+    }
+  ],
+  "total_amount": {
+    "value": "67",
+    "confidence": 0.801
+  },
+  "ocr_confidence": 0.453,
+  "flags": []
+}

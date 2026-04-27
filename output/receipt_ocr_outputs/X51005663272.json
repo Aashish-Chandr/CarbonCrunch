@@ -1,0 +1,27 @@
+{
+  "filename": "X51005663272.jpg",
+  "error": null,
+  "store_name": {
+    "value": "@ahwhariWarB Gw@Hd",
+    "confidence": 0.626,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "898048",
+    "confidence": 0.371,
+    "flagged": true
+  },
+  "ocr_confidence": 0.185,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.63)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.37)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

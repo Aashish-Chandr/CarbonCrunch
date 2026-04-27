@@ -1,0 +1,25 @@
+{
+  "filename": "X51005447848.jpg",
+  "error": null,
+  "store_name": {
+    "value": "LIAN CHI PU TIAN VEGETARIAN",
+    "confidence": 0.936
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "416576",
+    "confidence": 0.567,
+    "flagged": true
+  },
+  "ocr_confidence": 0.839,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.57)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

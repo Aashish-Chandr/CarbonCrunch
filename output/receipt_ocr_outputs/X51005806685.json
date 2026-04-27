@@ -1,0 +1,25 @@
+{
+  "filename": "X51005806685.jpg",
+  "error": null,
+  "store_name": {
+    "value": "ADVANCOC@MPAN",
+    "confidence": 0.742
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "445824",
+    "confidence": 0.422,
+    "flagged": true
+  },
+  "ocr_confidence": 0.356,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.42)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "X51005763964.jpg",
+  "error": null,
+  "store_name": {
+    "value": "YONC CEN ENTERPRISE",
+    "confidence": 0.863
+  },
+  "date": {
+    "value": "08/01/2018",
+    "confidence": 0.867
+  },
+  "items": [],
+  "total_amount": {
+    "value": "981824",
+    "confidence": 0.517,
+    "flagged": true
+  },
+  "ocr_confidence": 0.673,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.52)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

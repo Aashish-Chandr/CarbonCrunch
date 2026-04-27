@@ -1,0 +1,27 @@
+{
+  "filename": "X51005806678.jpg",
+  "error": null,
+  "store_name": {
+    "value": "IKAISQNTFURNZSHTNG SDNNEFD}",
+    "confidence": 0.675,
+    "flagged": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "998111",
+    "confidence": 0.372,
+    "flagged": true
+  },
+  "ocr_confidence": 0.189,
+  "flags": [
+    "LOW_CONFIDENCE:store_name(0.68)",
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.37)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

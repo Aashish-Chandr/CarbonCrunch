@@ -1,0 +1,25 @@
+{
+  "filename": "X51005568889.jpg",
+  "error": null,
+  "store_name": {
+    "value": "KON KWA KARDWARE TRADING",
+    "confidence": 0.896
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flagged": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "220362",
+    "confidence": 0.537,
+    "flagged": true
+  },
+  "ocr_confidence": 0.741,
+  "flags": [
+    "LOW_CONFIDENCE:date(0.00)",
+    "LOW_CONFIDENCE:total_amount(0.54)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

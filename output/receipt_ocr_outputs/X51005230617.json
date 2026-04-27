@@ -1,0 +1,21 @@
+{
+  "filename": "X51005230617.jpg",
+  "error": null,
+  "store_name": {
+    "value": "Gerbang ATaf Restaurants Sdn Bhd",
+    "confidence": 0.841
+  },
+  "date": {
+    "value": "18/01/2018",
+    "confidence": 0.777
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6",
+    "confidence": 0.882
+  },
+  "ocr_confidence": 0.723,
+  "flags": [
+    "NO_ITEMS_DETECTED"
+  ]
+}

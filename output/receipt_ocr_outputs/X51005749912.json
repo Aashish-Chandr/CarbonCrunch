@@ -1,0 +1,23 @@
+{
+  "filename": "X51005749912.jpg",
+  "error": null,
+  "store_name": {
+    "value": "MR .",
+    "confidence": 0.803
+  },
+  "date": {
+    "value": "28-03-18",
+    "confidence": 0.713
+  },
+  "items": [],
+  "total_amount": {
+    "value": "907236",
+    "confidence": 0.468,
+    "flagged": true
+  },
+  "ocr_confidence": 0.509,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.47)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

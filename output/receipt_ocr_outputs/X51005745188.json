@@ -1,0 +1,23 @@
+{
+  "filename": "X51005745188.jpg",
+  "error": null,
+  "store_name": {
+    "value": "SLF",
+    "confidence": 0.821
+  },
+  "date": {
+    "value": "02/02/2018",
+    "confidence": 0.831
+  },
+  "items": [],
+  "total_amount": {
+    "value": "777436",
+    "confidence": 0.481,
+    "flagged": true
+  },
+  "ocr_confidence": 0.553,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.48)",
+    "NO_ITEMS_DETECTED"
+  ]
+}

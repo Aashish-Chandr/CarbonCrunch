@@ -1,0 +1,23 @@
+{
+  "filename": "X51005722668.jpg",
+  "error": null,
+  "store_name": {
+    "value": "MY HAPPY PHARMAcY PLT",
+    "confidence": 0.913
+  },
+  "date": {
+    "value": "01/02/2018",
+    "confidence": 0.795
+  },
+  "items": [],
+  "total_amount": {
+    "value": "603426",
+    "confidence": 0.55,
+    "flagged": true
+  },
+  "ocr_confidence": 0.784,
+  "flags": [
+    "LOW_CONFIDENCE:total_amount(0.55)",
+    "NO_ITEMS_DETECTED"
+  ]
+}
