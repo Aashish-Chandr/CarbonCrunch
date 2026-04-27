@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  receipt-ocr:
+    build: .
+    image: receipt-ocr:latest
+    volumes:
+      # Mount your local receipt images folder
+      - ./data/receipts:/app/data/receipts:ro
+      # Output JSONs will appear here on the host
+      - ./output:/app/output
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Override config values at runtime via env (optional)
+    # command: ["--input", "/app/data/receipts", "--output", "/app/output/receipt_ocr_outputs"]

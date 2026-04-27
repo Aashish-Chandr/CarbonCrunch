@@ -1,0 +1,34 @@
+# ─────────────────────────────────────────────
+# Receipt OCR Pipeline — Configuration
+# ─────────────────────────────────────────────
+
+paths:
+  input_folder: "data/receipts"          # folder with raw receipt images
+  output_folder: "output/receipt_ocr_outputs"
+
+ocr:
+  languages: ["en"]
+  use_gpu: false                          # set true on Colab GPU/TPU runtime
+  batch_size: 1
+
+preprocessing:
+  min_width: 800                          # upscale images narrower than this
+  clahe_clip_limit: 2.0
+  clahe_tile_grid: [8, 8]
+  denoise_h: 10
+  adaptive_block_size: 11
+  adaptive_c: 2
+
+extraction:
+  max_store_name_lines: 8               # how many top lines to scan for store name
+  max_store_name_len: 60
+  low_confidence_threshold: 0.7         # flag fields below this score
+  store_name_fuzzy_threshold: 85        # rapidfuzz score to merge duplicate stores
+
+confidence:
+  ocr_weight: 0.3                       # weight of raw OCR conf in combined score
+  text_weight: 0.7
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s | %(levelname)s | %(message)s"
