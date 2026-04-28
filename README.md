@@ -437,7 +437,7 @@ git push origin feat/your-amazing-feature
 
 <div align="center">
 
-**Aashish Chandr**
+**Aashish Chandra**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aashish--Chandr-181717?style=for-the-badge&logo=github)](https://github.com/Aashish-Chandr)
 [![Project](https://img.shields.io/badge/Project-CarbonCrunch-2ecc71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashish-Chandr/CarbonCrunch)
@@ -448,7 +448,7 @@ git push origin feat/your-amazing-feature
 
 <div align="center">
 
-**Made with 🧾 and ☕ by [Aashish Chandr](https://github.com/Aashish-Chandr)**
+**Made with 🧾 and ☕ by [Aashish Chandra](https://github.com/Aashish-Chandr)**
 
 *If this project helped you, please consider giving it a ⭐ — it means a lot!*
 
