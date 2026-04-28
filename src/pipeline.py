@@ -49,7 +49,6 @@ def process_single(image_path: str, cfg: dict) -> dict:
     Returns a structured dict ready to be serialised as JSON.
     """
     filename = os.path.basename(image_path)
-    stem = os.path.splitext(filename)[0]
 
     result: dict = {"filename": filename, "error": None}
 
@@ -109,11 +108,11 @@ def run_pipeline(
     all_receipts: List[dict] = []
 
     for img_path in tqdm(image_paths, desc="OCR", unit="img"):
-        stem = os.path.splitext(os.path.basename(img_path))[0]
         receipt = process_single(img_path, cfg)
         all_receipts.append(receipt)
 
-        # Save individual JSON
+        # Save individual JSON — derive stem from the receipt filename
+        stem = os.path.splitext(os.path.basename(img_path))[0]
         out_path = os.path.join(out_dir, f"{stem}.json")
         _save_json(receipt, out_path)
 

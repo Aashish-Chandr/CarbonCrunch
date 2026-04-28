@@ -12,7 +12,7 @@ Each field is returned as:
 """
 import re
 import logging
-from typing import List, Dict, Optional, Tuple
+from typing import List, Optional, Tuple
 
 logger = logging.getLogger(__name__)
 
